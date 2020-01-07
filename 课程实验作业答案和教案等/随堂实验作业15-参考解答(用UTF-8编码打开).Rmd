@@ -1,0 +1,38 @@
+---
+title: "R语言-随堂实验作业15"
+author: ""
+output:
+  html_document: default
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+###请将附件中的一个在美国搜集的auto.csv数据表读入R的工作空间中。
+```{r}
+auto = read.csv("Datasets/auto.csv")
+```
+
+###用合适的图形来可视化“weight"和“mpg”两个变量之间的关系（以“weight"为因变量，以“mpg”为自变量）。
+```{r}
+plot(weight ~ mpg, data = auto, xlab = "MPG", ylab = "Weight")
+```
+
+
+###用合适的图形来可视化“weight"和“foreign”两个变量之间的关系（以“weight"为因变量，以“foreign”为自变量）。
+```{r}
+plot(weight ~ foreign, data = auto, xlab = "Foreign or Domestic", ylab = "Weight")
+```
+
+
+
+###利用以上这个auto.csv的数据表，建立一个线性回归模型，这个模型以“weight"为因变量，以“mpg”和“foreign”为自变量。并对回归系数估值的含义作出解释。
+```{r}
+auto_lm<-lm(weight~mpg+foreign,data=auto)
+summary(auto_lm)
+```
+###解答：基于我们的数据，在其他变量不变的情况下，我们估计油效率每增加1英里/加仑，车重的平均值会减小91.22磅，这个结论在0.05的显著性水平上显著；基于我们的数据，在其他变量不变的情况下，我们估计外国(Foreign)车的车重的平均值会比国产(Domestic)车的车重的平均值要少550磅，这个结论在0.05的显著性水平上显著。
+
+
+
+
+

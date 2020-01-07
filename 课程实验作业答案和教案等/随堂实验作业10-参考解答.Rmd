@@ -1,0 +1,51 @@
+---
+title: "R语言-随堂实验作业10"
+author: ""
+output:
+  html_document: default
+  word_document: default
+---
+ 
+###用我们学过的知识编写一个叫做weekday的函数，函数的输入参数为一个以下格式的日期字符串,"2019-11-11"，输出是这个日期是周几的字符串型结果，即输出的结果为以下七种结果之一："Monday"，"Tuesday"，"Wednesday"，"Thursday"，"Friday"，"Saturday"，"Sunday"。举几个例子来使用你写的这个函数。
+```{r}
+weekday <- function(date){
+  day = as.POSIXlt(date)$wday
+  #or you can use: day = strptime(date,"%Y-%m-%d")$wday
+  if(day==1) weekday = "Monday"
+  else if (day==2) weekday = "Tuesday"
+  else if (day==3) weekday = "Wednesday"
+  else if (day==4) weekday = "Thursday"
+  else if (day==5) weekday = "Friday"
+  else if (day==6) weekday = "Saturday"
+  else weekday = "Sunday"
+  weekday
+}
+
+
+
+weekday("2019-11-11")
+weekday("2019-11-12")
+weekday("2019-11-13")
+weekday("2019-11-14")
+weekday("2019-11-15")
+weekday("2019-11-16")
+weekday("2019-11-17")
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

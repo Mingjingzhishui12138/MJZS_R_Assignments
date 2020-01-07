@@ -1,0 +1,50 @@
+---
+title: "R语言-随堂实验作业3"
+author: ""
+output:
+  html_document: default
+  word_document: default
+---
+ 
+### 创建一个叫做ShenzhenU的列表(list),里面包含四个元素: name, street, number, 这三个元素的内容分别是: "Shenzhen University", "Nanhai Street", 3688
+```{r}
+ShenzhenU <- list(
+  name = "Shenzhen University",
+  street = "Nanhai Street",
+  number = 3688
+)
+ShenzhenU
+```
+
+###创建一个叫做Colleague的数据框，里面存储以下内容(注意：ID列为整数型，Name列为字符型，Age列为整数型，Male列为逻辑型):
+##  ID    Name Age  Male
+##  1 Michael  27  TRUE
+##  2     Joe  36  TRUE
+##  3    Adam  28  TRUE
+##  4   Julie  23 FALSE
+```{r}
+Colleague <- data.frame(
+  ID = c(1:4),
+  Name= c("Michael","Joe","Adam","Julie"),
+  Age = c(27, 36, 28, 23),
+  Male = c(TRUE, TRUE, TRUE, FALSE)
+)
+Colleague
+```
+
+###将Forbes2000数据读入到R中(注意：你可能需要使用路径, 连接符用"/"或者"\\")
+```{r}
+load("Forbes2000.RData")
+```
+
+###将Forbes2000数据框的列名存入一个叫做columns的字符型向量中
+```{r}
+columns = colnames(Forbes2000)
+columns
+```
+
+
+
+
+
+

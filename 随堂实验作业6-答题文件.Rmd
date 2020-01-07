@@ -1,0 +1,70 @@
+---
+title: "R随堂实验作业6"
+author: "陈明2017022002"
+output:
+  html_document: default
+  word_document: default
+---
+ 
+### 创建一个逻辑型向量，在里面显示mtcars数据表中的每辆车的马力(hp)是否大于200。
+```{r}
+a <- mtcars$hp > 200
+a
+```
+
+### 创建一个逻辑型向量，其中的每个元素用于判别cars数据表中的每辆车的停车距离值(dist)是否大于40。
+```{r}
+b = cars$dist > 40
+b
+```
+
+### 将cars数据表中所有大于40的距离值用40代替。
+```{r}
+cars$dist[cars$dist > 40] = 40
+cars$dist
+```
+
+
+### 分别定义下面的向量:
+### 把true_and_missing向量赋值为TRUE和NA（至少其中一个，不限顺序）。
+```{r}
+true_and_missing <- c(TRUE,NA)
+true_and_missing
+```
+
+### 把false_and_missing向量赋值为FALSE 和NA。
+```{r}
+false_and_missing <- c(FALSE, NA)
+false_and_missing
+```
+
+### 把mixed向量赋值为TRUE、FALSE 和NA。
+```{r}
+mixed <- c(TRUE, FALSE, NA)
+mixed
+```
+
+### 将any() 和all() 函数分别应用于以上定义的三个向量，查看并思考结果。
+```{r}
+any(true_and_missing)
+all(true_and_missing)
+any(false_and_missing)
+all(false_and_missing)
+any(mixed)
+all(mixed)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+---
+title: "随堂实验作业13"
+author: "陈明2017022002"
+output:
+  html_document: default
+  word_document: default
+---
+### 1.从Blackboard上的电子教案的Datasets目录中下载Forbes2000.RData或者Forbes2000.csv数据文件，读入到R的工作空间中存为一个叫做Forbes2000的数据框
+```{r}
+setwd('C:\\Users\\Mingjingzhishui\\Desktop')
+Forbes2000 <- read.csv('Forbes2000.csv')
+```
+
+
+### 2.在Forbes2000数据框中将英国和德国的公司（country变量为’UnitedKingdom’和’Germany’的记录）的记录挑出来，并画出反映这些公司的市值(marketvalue变量)和销售额(sales变量)的关系的散点图（也可以在画图之前先对这两个值使用log()函数进行自然对数的转化），并要求图中对应这两个不同国家的点要使用不同形状（或者不同颜色）的图标以在图中区分这两个不同国家。
+```{r}
+subdataset <- Forbes2000[Forbes2000$country == 'United Kingdom'|Forbes2000$country == 'Germany',]
+plot(log(sales) ~ log(marketvalue), data = subdataset, pch = 1:2)+
+legend('topleft', legend = c("United Kingdom","Germany"), bty = 'n')
+```
+
+
+### 3.将所有资产总额(由assets变量记录，其单位为”10亿美元”)大于30亿美元的德国公司的利润（profits变量）的直方图画出。
+```{r}
+hist(subdataset$profit[subdataset$country == 'Germany' & subdataset$assets[Forbes2000$assets>3]])
+```
+ 
+ 
+
+
+
+

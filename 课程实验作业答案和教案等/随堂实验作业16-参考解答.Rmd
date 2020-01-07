@@ -1,0 +1,41 @@
+---
+title: "R语言-随堂实验作业16"
+author: ""
+output:
+  word_document: default
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+###请将附件中的auto.csv数据表文件读入R的工作空间中。
+```{r}
+auto = read.csv("Datasets/auto.csv")
+```
+
+###用合适的图形来可视化“foreign"和“mpg”两个变量之间的关系（以“foreign"为因变量，以“mpg”为自变量）。
+```{r}
+layout(matrix(1:2, ncol = 2))
+plot(foreign ~ mpg, data = auto)
+cdplot(foreign ~ mpg, data = auto)
+```
+
+
+###用合适的图形来可视化“foreign"和“weight”两个变量之间的关系（以“foreign"为因变量，以“weight”为自变量）。
+```{r}
+layout(matrix(1:2, ncol = 2))
+plot(foreign ~ weight, data = auto)
+cdplot(foreign ~ weight, data = auto)
+```
+
+
+
+###用逻辑回归模型评估"mpg"和“weight"变量是否值得被引入到一个预测模型中来预测一辆车是否为"Foreign"车（"foreign"变量），并解释显著的回归系数的估值的含义（基于使用"mpg"和“weight"两个自变量的模型来解释）。
+```{r}
+auto=read.csv("Datasets/auto.csv",header=TRUE)
+str(auto)
+auto_logit <- glm(foreign ~ weight+mpg, data = auto, family = binomial())
+summary(auto_logit)
+```
+
+#####解答：逻辑回归模型为:$\text{logit}(\pi_i) = \log\left(\frac{\pi_i}{1 - \pi_i}\right) = \beta_0 + \beta_{\text{weight}} weight_i + \beta_{\text{mpg}} mpg_i$.其中$\pi_i$是"第$i$个观测为Foreign车"的概率。$\text{logit}(\pi_i)=\log\left(\frac{\pi_i}{1 - \pi_i}\right)$是"第$i$个观测为Foreign车"的优势的自然对数。（1）$\beta_{\text{weight}}$对应的p值等于0.000113，因此在$\alpha=0.05$的显著性水平上，我们推翻$\beta_{\text{weight}}=0$的原假设，因此我们得出weight变量值得被引入到模型中的结论。$\beta_{\text{mpg}}$对应的p值等于0.066637，因此在$\alpha=0.05$的显著性水平上，我们不能推翻$\beta_{\text{mpg}}=0$的原假设，因此我们得出mpg变量不值得被引入到模型中的结论。（2）基于如上使用"mpg"和“weight"两个自变量的模型，我们对显著的回归系数的解释如下（注：不显著的回归系数因为不能推翻其为0的原假设，所以可以不用进行解释了）：$\hat\beta_{\text{weight}}=-0.003907$,即$\exp(\hat\beta_{\text{weight}})=\exp(-0.003907)=0.9961006$,所以，基于我们的数据，在其他变量的值不变的情况下，我们估计weight每增加1磅，“车为Foreign车”的优势变为原来的99.6%,这个结论在0.05的显著性水平上显著。
+

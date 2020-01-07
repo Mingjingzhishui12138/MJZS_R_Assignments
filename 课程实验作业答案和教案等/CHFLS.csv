@@ -1,0 +1,1535 @@
+"","R_region","R_age","R_edu","R_income","R_health","R_height","R_happy","A_height","A_edu","A_income"
+"1","Northeast",54,"Senior high school",900,"Good",165,"Somewhat happy",172,"Senior high school",500
+"2","Northeast",46,"Senior high school",500,"Fair",156,"Somewhat happy",170,"Senior high school",800
+"3","Northeast",48,"Senior high school",800,"Good",163,"Somewhat happy",172,"Junior high school",700
+"4","Northeast",46,"Junior high school",300,"Fair",164,"Somewhat happy",174,"Elementary school",700
+"5","Northeast",45,"Junior high school",300,"Fair",162,"Somewhat happy",172,"Junior high school",400
+"6","Northeast",36,"Senior high school",500,"Excellent",161,"Somewhat happy",180,"Junior college",900
+"7","Northeast",48,"Junior high school",0,"Not good",167,"Very happy",168,"Junior high school",300
+"8","Northeast",36,"Junior high school",100,"Good",156,"Not too happy",173,"Senior high school",800
+"9","Northeast",20,"Junior high school",200,"Fair",158,"Not too happy",178,"Junior college",200
+"10","Northeast",30,"Senior high school",400,"Good",160,"Somewhat happy",176,"Senior high school",600
+"11","Northeast",43,"Junior high school",300,"Not good",156,"Not too happy",174,"Junior high school",200
+"12","Northeast",40,"Junior high school",0,"Fair",165,"Somewhat happy",170,"Junior high school",400
+"13","Northeast",36,"Junior high school",200,"Good",158,"Somewhat happy",172,"Junior high school",500
+"14","Northeast",35,"Senior high school",300,"Excellent",160,"Somewhat happy",176,"Senior high school",200
+"15","Northeast",39,"Junior college",3000,"Fair",158,"Somewhat happy",181,"Junior college",800
+"16","Northeast",36,"Junior college",0,"Fair",168,"Somewhat happy",176,"University",500
+"17","Northeast",34,"Senior high school",500,"Excellent",163,"Somewhat happy",173,"Senior high school",500
+"18","Northeast",45,"Junior high school",0,"Not good",160,"Not too happy",180,"Junior high school",600
+"19","Northeast",36,"Senior high school",0,"Excellent",155,"Somewhat happy",170,"Junior high school",0
+"20","Northeast",49,"Junior high school",500,"Not good",165,"Very happy",170,"Junior high school",200
+"21","Northeast",33,"Junior high school",400,"Fair",155,"Not too happy",177,"Junior high school",0
+"22","Northeast",43,"Junior high school",50,"Good",166,"Not too happy",177,"Junior high school",600
+"23","Northeast",33,"Senior high school",200,"Good",168,"Not too happy",180,"Senior high school",200
+"24","Northeast",42,"Junior high school",400,"Good",155,"Somewhat happy",165,"Junior high school",400
+"25","Northeast",39,"Junior high school",400,"Good",157,"Somewhat happy",172,"Junior high school",500
+"26","Northeast",44,"Senior high school",400,"Not good",171,"Very unhappy",174,"Junior high school",0
+"27","Northeast",36,"Junior college",500,"Not good",166,"Not too happy",173,"Junior college",600
+"28","Northeast",61,"Never attended school",600,"Excellent",159,"Somewhat happy",170,"Junior college",800
+"29","Northeast",54,"Junior college",1000,"Excellent",154,"Somewhat happy",176,"University",1000
+"30","Northeast",45,"Junior college",1000,"Fair",162,"Somewhat happy",180,"University",1000
+"31","Northeast",36,"Senior high school",90,"Fair",163,"Somewhat happy",169,"Junior high school",90
+"32","Northeast",39,"Junior college",400,"Good",158,"Somewhat happy",180,"Junior high school",500
+"33","Northeast",46,"Junior high school",100,"Good",150,"Somewhat happy",174,"Junior high school",200
+"34","Northeast",46,"Junior high school",100,"Fair",164,"Somewhat happy",176,"Senior high school",300
+"35","Northeast",39,"Junior high school",200,"Fair",150,"Somewhat happy",170,"Junior high school",1000
+"36","Northeast",44,"Junior high school",300,"Not good",158,"Somewhat happy",170,"Senior high school",1000
+"37","Northeast",45,"Junior high school",0,"Not good",168,"Not too happy",170,"Senior high school",300
+"38","Northeast",40,"Junior high school",40,"Good",150,"Somewhat happy",168,"Junior high school",500
+"39","Northeast",40,"Junior college",700,"Not good",161,"Somewhat happy",170,"Junior college",800
+"40","Northeast",34,"Senior high school",0,"Not good",161,"Very unhappy",174,"Junior college",700
+"41","Northeast",37,"Senior high school",200,"Not good",156,"Not too happy",170,"Junior high school",300
+"42","Northeast",45,"Junior high school",0,"Fair",162,"Not too happy",180,"Senior high school",500
+"43","Northeast",41,"Junior college",400,"Fair",158,"Somewhat happy",169,"Senior high school",500
+"44","Northeast",61,"Elementary school",300,"Fair",162,"Somewhat happy",170,"Elementary school",600
+"45","Northeast",30,"Junior college",300,"Excellent",163,"Somewhat happy",178,"Junior college",600
+"46","Northeast",25,"Senior high school",0,"Fair",170,"Very happy",174,"Junior high school",500
+"47","Northeast",40,"Junior high school",0,"Not good",159,"Somewhat happy",170,"Junior high school",700
+"48","Northeast",45,"Junior high school",400,"Fair",164,"Very happy",183,"Junior high school",500
+"49","Northeast",39,"Junior high school",1000,"Fair",156,"Somewhat happy",172,"Junior high school",300
+"50","Northeast",27,"Junior high school",0,"Fair",156,"Not too happy",170,"Junior high school",0
+"51","Northeast",50,"Junior high school",500,"Good",168,"Somewhat happy",180,"Junior high school",800
+"52","Northeast",43,"Junior high school",400,"Excellent",152,"Somewhat happy",164,"Junior high school",400
+"53","Northeast",35,"Junior high school",300,"Good",162,"Somewhat happy",176,"Junior high school",0
+"54","Northeast",37,"Senior high school",500,"Good",160,"Somewhat happy",171,"Junior high school",500
+"55","Northeast",44,"Junior high school",900,"Good",155,"Somewhat happy",168,"Junior high school",500
+"56","Northeast",39,"Junior high school",200,"Good",158,"Somewhat happy",169,"Junior high school",500
+"57","Northeast",29,"Junior high school",800,"Good",162,"Somewhat happy",180,"Junior high school",200
+"58","Northeast",34,"Senior high school",600,"Excellent",162,"Somewhat happy",174,"Senior high school",500
+"59","Northeast",39,"Senior high school",300,"Excellent",160,"Very happy",170,"Senior high school",300
+"60","Northeast",45,"Senior high school",100,"Poor",168,"Very happy",180,"Junior high school",800
+"61","Northeast",44,"Junior high school",2000,"Not good",158,"Somewhat happy",179,"Junior college",400
+"62","Northeast",32,"Junior high school",200,"Not good",170,"Somewhat happy",170,"Junior high school",2000
+"63","Northeast",43,"Junior high school",0,"Good",163,"Somewhat happy",173,"Junior high school",4000
+"64","Northeast",58,"Junior high school",800,"Excellent",150,"Very happy",175,"Senior high school",1000
+"65","Northeast",48,"Senior high school",0,"Excellent",156,"Very happy",165,"Senior high school",1000
+"66","Northeast",45,"Senior high school",500,"Excellent",158,"Somewhat happy",173,"Junior high school",400
+"67","Northeast",50,"Elementary school",300,"Not good",160,"Not too happy",175,"Junior high school",900
+"68","Northeast",24,"Senior high school",30,"Fair",162,"Not too happy",170,"Junior high school",700
+"69","Northeast",47,"Junior high school",600,"Fair",168,"Somewhat happy",176,"Senior high school",900
+"70","Northeast",26,"Junior college",200,"Good",158,"Somewhat happy",175,"Junior college",800
+"71","Northeast",31,"Senior high school",500,"Excellent",170,"Somewhat happy",190,"Junior college",900
+"72","Northeast",43,"Junior high school",600,"Excellent",162,"Very happy",172,"Junior high school",1000
+"73","Northeast",27,"Junior high school",600,"Excellent",163,"Very happy",175,"Junior high school",2000
+"74","Northeast",27,"Senior high school",500,"Fair",160,"Somewhat happy",172,"Senior high school",500
+"75","Northeast",33,"Senior high school",500,"Excellent",160,"Very happy",170,"Senior high school",1000
+"76","Northeast",21,"Junior high school",400,"Fair",160,"Very happy",174,"Junior high school",600
+"77","Northeast",35,"Junior high school",1000,"Not good",150,"Somewhat happy",162,"Junior high school",0
+"78","Northeast",45,"Junior high school",300,"Good",152,"Not too happy",163,"Junior high school",500
+"79","Northeast",53,"Junior high school",1000,"Good",160,"Somewhat happy",168,"Senior high school",1000
+"80","Northeast",39,"Junior high school",300,"Fair",163,"Somewhat happy",160,"Junior high school",200
+"81","Northeast",45,"Senior high school",500,"Good",160,"Somewhat happy",186,"Senior high school",500
+"82","Northeast",35,"Junior high school",300,"Fair",164,"Not too happy",180,"Elementary school",800
+"83","Northeast",50,"Junior high school",700,"Fair",154,"Somewhat happy",168,"Junior high school",400
+"84","Northeast",44,"Senior high school",1000,"Good",168,"Very happy",178,"University",1000
+"85","Northeast",34,"Junior high school",0,"Not good",158,"Not too happy",180,"Junior high school",1000
+"86","Northeast",47,"Never attended school",100,"Fair",166,"Somewhat happy",167,"Junior college",800
+"87","Northeast",45,"Junior college",1000,"Good",156,"Not too happy",170,"Senior high school",1000
+"88","Northeast",26,"Senior high school",400,"Good",172,"Somewhat happy",182,"Senior high school",3000
+"89","Northeast",35,"Senior high school",400,"Excellent",168,"Not too happy",175,"Junior high school",800
+"90","Northeast",21,"Senior high school",200,"Excellent",158,"Very happy",172,"Senior high school",600
+"91","Northeast",46,"Junior high school",0,"Fair",156,"Somewhat happy",169,"Junior high school",1000
+"92","Northeast",27,"Elementary school",0,"Not good",150,"Very unhappy",170,"Elementary school",1000
+"93","Northeast",42,"Junior college",600,"Not good",156,"Somewhat happy",171,"Junior high school",300
+"94","Northeast",43,"Senior high school",700,"Good",172,"Not too happy",174,"Senior high school",0
+"95","Northeast",37,"Junior high school",0,"Not good",168,"Not too happy",178,"Junior high school",1000
+"96","Northeast",26,"Junior high school",0,"Excellent",162,"Somewhat happy",167,"Junior high school",3000
+"97","Northeast",21,"Senior high school",300,"Good",160,"Somewhat happy",174,"Senior high school",400
+"98","Northeast",26,"Senior high school",300,"Good",160,"Not too happy",172,"Junior high school",2000
+"99","Northeast",34,"Junior college",900,"Good",165,"Somewhat happy",175,"Junior college",600
+"100","Northeast",26,"Junior high school",500,"Fair",167,"Somewhat happy",180,"Junior high school",1000
+"101","Northeast",32,"Senior high school",500,"Excellent",145,"Somewhat happy",170,"Junior high school",500
+"102","Northeast",57,"Elementary school",0,"Good",155,"Very happy",172,"Senior high school",600
+"103","Northeast",30,"Junior high school",800,"Good",159,"Very happy",172,"Senior high school",1000
+"104","Northeast",27,"Junior high school",500,"Fair",150,"Not too happy",168,"Senior high school",800
+"105","Northeast",64,"Junior high school",200,"Good",159,"Somewhat happy",179,"Senior high school",700
+"106","Northeast",41,"Junior high school",0,"Excellent",161,"Very happy",172,"Junior high school",4000
+"107","Northeast",39,"Junior high school",0,"Good",161,"Somewhat happy",178,"Junior high school",2000
+"108","Northeast",32,"Junior high school",2000,"Good",160,"Somewhat happy",173,"Junior high school",2000
+"109","Northeast",49,"Junior high school",600,"Excellent",158,"Somewhat happy",165,"Senior high school",700
+"110","Northeast",37,"Junior high school",300,"Good",159,"Somewhat happy",165,"Junior high school",600
+"111","Northeast",27,"Senior high school",400,"Good",170,"Somewhat happy",180,"Senior high school",800
+"112","Northeast",32,"Senior high school",0,"Fair",162,"Somewhat happy",173,"Senior high school",1000
+"113","Northeast",36,"Junior college",0,"Excellent",158,"Not too happy",172,"Senior high school",1000
+"114","Northeast",41,"Junior high school",2000,"Excellent",162,"Very happy",165,"Junior high school",1000
+"115","Northeast",56,"Senior high school",0,"Not good",160,"Not too happy",172,"Junior high school",700
+"116","Northeast",36,"Junior high school",0,"Not good",162,"Not too happy",175,"Senior high school",800
+"117","Northeast",42,"Elementary school",2000,"Not good",163,"Somewhat happy",162,"Junior high school",1000
+"118","Northeast",48,"Elementary school",500,"Good",162,"Very happy",174,"Junior high school",800
+"119","Northeast",52,"Junior high school",0,"Good",158,"Somewhat happy",163,"Elementary school",80
+"120","Northeast",51,"Junior college",900,"Excellent",162,"Very happy",175,"Junior college",900
+"121","Northeast",48,"Junior high school",400,"Not good",164,"Not too happy",172,"Junior high school",500
+"122","Northeast",33,"Junior high school",500,"Good",158,"Very happy",168,"Junior high school",400
+"123","Northeast",31,"University",800,"Excellent",172,"Somewhat happy",178,"Junior high school",0
+"124","Northeast",56,"Senior high school",700,"Good",156,"Somewhat happy",172,"Junior college",800
+"125","Northeast",45,"Junior high school",200,"Fair",150,"Somewhat happy",165,"Junior high school",400
+"126","Northeast",46,"Junior high school",200,"Fair",166,"Somewhat happy",173,"Junior high school",200
+"127","Northeast",42,"Junior high school",200,"Fair",167,"Somewhat happy",173,"Senior high school",300
+"128","Northeast",52,"Junior high school",300,"Not good",158,"Somewhat happy",172,"Junior high school",300
+"129","Northeast",36,"Junior high school",100,"Fair",162,"Somewhat happy",162,"Junior high school",200
+"130","Northeast",38,"Junior high school",500,"Fair",167,"Somewhat happy",170,"Junior high school",500
+"131","Northeast",38,"Junior high school",1000,"Fair",150,"Somewhat happy",160,"Senior high school",300
+"132","Northeast",45,"Junior high school",2000,"Excellent",154,"Somewhat happy",170,"Junior high school",3000
+"133","Northeast",27,"Junior high school",400,"Fair",164,"Somewhat happy",173,"Junior high school",800
+"134","Northeast",27,"Senior high school",0,"Fair",162,"Somewhat happy",170,"Junior high school",1000
+"135","Northeast",36,"Junior high school",300,"Fair",166,"Somewhat happy",181,"Junior high school",300
+"136","Northeast",44,"Junior high school",200,"Not good",164,"Not too happy",174,"Elementary school",300
+"137","Northeast",44,"Senior high school",300,"Good",159,"Somewhat happy",163,"Elementary school",400
+"138","Northeast",45,"Junior college",0,"Fair",160,"Not too happy",172,"Senior high school",500
+"139","Northeast",36,"Junior high school",100,"Not good",164,"Somewhat happy",173,"Senior high school",300
+"140","Northeast",35,"Senior high school",400,"Good",156,"Somewhat happy",168,"Junior high school",600
+"141","Northeast",55,"Senior high school",400,"Fair",160,"Very unhappy",170,"Junior college",500
+"142","Northeast",45,"Junior high school",400,"Good",164,"Somewhat happy",174,"Junior high school",100
+"143","Northeast",58,"Elementary school",200,"Not good",158,"Very unhappy",168,"Elementary school",200
+"144","Northeast",27,"Senior high school",600,"Good",168,"Very happy",172,"Junior college",800
+"145","Northeast",34,"Junior high school",300,"Good",162,"Not too happy",175,"Senior high school",400
+"146","Northeast",45,"Junior college",800,"Fair",156,"Somewhat happy",173,"Senior high school",600
+"147","Northeast",52,"Senior high school",300,"Not good",160,"Not too happy",175,"Elementary school",200
+"148","Northeast",29,"Senior high school",200,"Good",158,"Somewhat happy",173,"University",400
+"149","Northeast",26,"Senior high school",50,"Good",158,"Somewhat happy",168,"Junior high school",500
+"150","Northeast",39,"Junior high school",50,"Good",160,"Somewhat happy",170,"Junior high school",200
+"151","Northeast",21,"Senior high school",0,"Good",167,"Somewhat happy",173,"Junior high school",800
+"152","Northeast",26,"Senior high school",0,"Excellent",158,"Very happy",179,"Senior high school",3000
+"153","Northeast",28,"Junior high school",400,"Good",162,"Very happy",174,"Junior high school",400
+"154","Northeast",49,"Elementary school",200,"Fair",164,"Somewhat happy",175,"Elementary school",300
+"155","Northeast",43,"Junior high school",0,"Fair",158,"Not too happy",172,"Junior high school",500
+"156","Northeast",36,"Junior high school",400,"Fair",155,"Not too happy",170,"Junior high school",100
+"157","Northeast",44,"Junior college",1000,"Good",168,"Somewhat happy",176,"Senior high school",500
+"158","Northeast",40,"Junior high school",0,"Fair",158,"Somewhat happy",173,"Junior high school",500
+"159","Northeast",40,"Junior high school",1000,"Good",166,"Somewhat happy",177,"Junior high school",0
+"160","Northeast",39,"Junior high school",500,"Good",159,"Not too happy",176,"Junior high school",500
+"161","Northeast",28,"Junior high school",60,"Fair",158,"Somewhat happy",170,"Junior high school",400
+"162","Northeast",44,"Junior high school",300,"Fair",160,"Somewhat happy",173,"Junior high school",600
+"163","Northeast",46,"Senior high school",600,"Good",168,"Very happy",178,"Junior high school",600
+"164","Northeast",45,"Elementary school",300,"Fair",156,"Somewhat happy",175,"Junior high school",300
+"165","Northeast",39,"Junior high school",200,"Fair",164,"Somewhat happy",168,"Junior high school",400
+"166","Northeast",39,"Elementary school",100,"Poor",172,"Very unhappy",176,"Junior high school",0
+"167","Northeast",40,"Junior high school",300,"Fair",166,"Somewhat happy",172,"Junior high school",600
+"168","Northeast",38,"Junior high school",3000,"Fair",164,"Somewhat happy",170,"Senior high school",500
+"169","North",39,"Junior high school",400,"Good",168,"Somewhat happy",165,"Junior high school",700
+"170","North",61,"Senior high school",500,"Fair",160,"Very unhappy",178,"Junior college",900
+"171","North",57,"Junior high school",300,"Excellent",155,"Very happy",173,"Senior high school",800
+"172","North",34,"Senior high school",500,"Not good",158,"Somewhat happy",170,"Junior high school",600
+"173","North",51,"Junior high school",700,"Fair",157,"Somewhat happy",175,"Senior high school",800
+"174","North",52,"University",1000,"Fair",158,"Not too happy",174,"University",2000
+"175","North",57,"Senior high school",700,"Fair",167,"Somewhat happy",173,"Junior college",1000
+"176","North",58,"Junior college",1000,"Fair",159,"Somewhat happy",180,"Senior high school",1000
+"177","North",32,"University",400,"Good",155,"Somewhat happy",170,"University",700
+"178","North",26,"Senior high school",500,"Fair",158,"Very happy",170,"Senior high school",500
+"179","North",40,"Junior high school",600,"Fair",158,"Somewhat happy",175,"Junior high school",700
+"180","North",37,"Senior high school",400,"Good",153,"Somewhat happy",171,"Senior high school",1000
+"181","North",36,"Senior high school",200,"Good",170,"Somewhat happy",175,"Senior high school",600
+"182","North",40,"Senior high school",400,"Excellent",154,"Somewhat happy",172,"Senior high school",700
+"183","North",37,"Senior high school",400,"Fair",162,"Somewhat happy",172,"Senior high school",700
+"184","North",45,"Junior high school",800,"Fair",158,"Somewhat happy",178,"Junior high school",800
+"185","North",29,"Senior high school",500,"Fair",162,"Somewhat happy",173,"Senior high school",600
+"186","North",40,"Senior high school",200,"Fair",158,"Very happy",173,"Senior high school",700
+"187","North",52,"Junior high school",300,"Excellent",165,"Very happy",163,"Junior high school",500
+"188","North",34,"Junior college",700,"Excellent",164,"Very happy",181,"Senior high school",1000
+"189","North",41,"Junior college",400,"Fair",157,"Somewhat happy",165,"Junior high school",700
+"190","North",32,"Senior high school",1000,"Good",164,"Somewhat happy",172,"Junior college",1000
+"191","North",42,"Junior high school",0,"Good",160,"Somewhat happy",170,"Junior high school",700
+"192","North",48,"Junior high school",600,"Fair",154,"Somewhat happy",173,"Junior high school",700
+"193","North",42,"Junior college",1000,"Good",159,"Somewhat happy",168,"University",1000
+"194","North",29,"Senior high school",400,"Good",160,"Somewhat happy",180,"Junior college",1000
+"195","North",28,"Junior high school",400,"Good",170,"Somewhat happy",177,"Junior high school",500
+"196","North",32,"Junior high school",600,"Good",156,"Somewhat happy",175,"Junior high school",600
+"197","North",56,"Never attended school",0,"Not good",156,"Somewhat happy",163,NA,500
+"198","North",42,"Elementary school",700,"Good",152,"Somewhat happy",165,"Elementary school",900
+"199","North",26,"Junior high school",3000,"Good",156,"Somewhat happy",172,"Senior high school",3000
+"200","North",33,"Junior high school",500,"Fair",151,"Somewhat happy",165,"Junior high school",600
+"201","North",48,"Never attended school",200,"Fair",155,"Very happy",169,"Elementary school",400
+"202","North",48,"Elementary school",300,"Excellent",164,"Somewhat happy",177,"University",1000
+"203","North",40,"Junior high school",500,"Excellent",158,"Somewhat happy",164,"Junior high school",700
+"204","North",34,"Junior college",600,"Good",162,"Somewhat happy",174,"Senior high school",700
+"205","North",52,"Elementary school",0,"Not good",165,"Not too happy",172,"Junior high school",700
+"206","North",45,"Elementary school",200,"Fair",156,"Somewhat happy",170,"Elementary school",700
+"207","North",29,"Junior high school",300,"Excellent",159,"Very happy",170,"Junior high school",600
+"208","North",34,"Senior high school",400,"Fair",160,"Somewhat happy",170,"Senior high school",500
+"209","North",50,"Elementary school",0,"Not good",157,"Not too happy",170,"Elementary school",500
+"210","North",49,"Never attended school",0,"Fair",157,"Somewhat happy",170,"Elementary school",500
+"211","North",46,"Elementary school",100,"Good",156,"Very happy",165,"Elementary school",400
+"212","North",54,"Junior high school",0,"Not good",152,"Not too happy",160,"Junior high school",0
+"213","North",30,"Elementary school",0,"Good",163,"Somewhat happy",160,"Senior high school",500
+"214","North",55,"Senior high school",50,"Fair",150,"Somewhat happy",165,"Junior college",700
+"215","North",42,"Elementary school",300,"Good",156,"Somewhat happy",170,"Elementary school",300
+"216","North",28,"Junior high school",400,"Fair",150,"Somewhat happy",165,"Senior high school",700
+"217","North",44,"Elementary school",0,"Excellent",162,"Very happy",174,"Junior high school",700
+"218","North",29,"Elementary school",0,"Excellent",157,"Very happy",165,"Junior high school",0
+"219","North",32,"Junior high school",200,"Fair",156,"Somewhat happy",175,"Junior high school",200
+"220","North",32,"Junior college",1000,"Not good",160,"Somewhat happy",174,"Junior college",2000
+"221","North",35,"Junior high school",300,"Fair",158,"Somewhat happy",168,"Elementary school",300
+"222","North",47,"Never attended school",200,"Not good",150,"Not too happy",161,"Elementary school",200
+"223","North",35,"Elementary school",30,"Not good",169,"Somewhat happy",170,"Elementary school",30
+"224","North",41,"Junior high school",100,"Good",162,"Somewhat happy",165,"Elementary school",100
+"225","North",36,"Elementary school",60,"Good",157,"Somewhat happy",160,"Junior high school",60
+"226","North",42,"Senior high school",30,"Good",158,"Somewhat happy",160,"Senior high school",30
+"227","North",44,"Never attended school",200,"Excellent",165,"Not too happy",177,"Junior high school",200
+"228","North",56,"Elementary school",600,"Good",162,"Somewhat happy",172,"Elementary school",600
+"229","North",26,"Senior high school",200,"Good",155,"Somewhat happy",160,"Elementary school",200
+"230","North",39,"Never attended school",100,"Fair",160,"Not too happy",175,"Senior high school",100
+"231","North",36,"Senior high school",400,"Excellent",166,"Very happy",170,"Junior high school",800
+"232","North",44,"Elementary school",200,"Fair",162,"Somewhat happy",168,"Senior high school",200
+"233","North",48,"Elementary school",100,"Good",165,"Somewhat happy",178,"Junior high school",100
+"234","North",46,"Elementary school",200,"Not good",158,"Somewhat happy",180,"Elementary school",200
+"235","North",45,"Elementary school",80,"Poor",150,"Very unhappy",170,"Elementary school",80
+"236","North",25,"Elementary school",200,"Fair",147,"Not too happy",170,"Junior high school",200
+"237","North",51,"Elementary school",300,"Fair",156,"Not too happy",178,"Senior high school",300
+"238","North",41,"Never attended school",40,"Fair",162,"Somewhat happy",165,"Junior high school",40
+"239","North",25,"Junior high school",100,"Excellent",167,"Somewhat happy",167,"Junior high school",100
+"240","North",40,"Junior high school",600,"Good",158,"Not too happy",170,"Senior high school",600
+"241","North",39,"Junior high school",100,"Good",170,"Very happy",170,"Junior high school",100
+"242","North",45,"Junior high school",200,"Excellent",150,"Somewhat happy",160,"Elementary school",200
+"243","North",37,"Junior high school",200,"Good",153,"Very happy",175,"Junior high school",200
+"244","North",41,"Senior high school",100,"Poor",159,"Not too happy",175,"Junior high school",100
+"245","North",39,"Elementary school",500,"Fair",150,"Very happy",165,"Junior high school",500
+"246","North",30,"Elementary school",300,"Good",167,"Somewhat happy",169,"Junior high school",300
+"247","North",50,"Never attended school",400,"Good",158,"Somewhat happy",167,"Senior high school",400
+"248","North",60,"Elementary school",100,"Fair",160,"Somewhat happy",175,"Never attended school",100
+"249","North",35,"Junior high school",300,"Good",165,"Somewhat happy",165,"Junior high school",300
+"250","North",47,"Junior high school",400,"Good",154,"Somewhat happy",178,"Junior high school",900
+"251","North",44,"Elementary school",300,"Not good",160,"Somewhat happy",160,"Junior high school",900
+"252","North",32,"Junior college",1000,"Not good",160,"Somewhat happy",174,"Junior college",2000
+"253","North",27,"Senior high school",900,"Good",160,"Somewhat happy",170,"Junior college",1000
+"254","North",49,"Junior high school",800,"Not good",163,"Not too happy",170,"Junior high school",800
+"255","North",28,"University",1000,"Fair",155,"Somewhat happy",172,"University",1000
+"256","North",47,"Junior high school",700,"Fair",162,"Not too happy",178,"Elementary school",800
+"257","North",25,"Junior college",400,"Good",157,"Somewhat happy",170,"Senior high school",1000
+"258","North",42,"Elementary school",800,"Fair",156,"Not too happy",172,"Senior high school",900
+"259","North",31,"University",800,"Good",150,"Not too happy",172,"Senior high school",2000
+"260","North",50,"Senior high school",900,"Fair",158,"Somewhat happy",162,"Junior high school",1000
+"261","North",42,"Junior high school",800,"Excellent",155,"Somewhat happy",165,"Junior high school",200
+"262","North",37,"University",1000,"Not good",163,"Somewhat happy",172,"Junior college",1000
+"263","North",30,"Senior high school",700,"Fair",162,"Somewhat happy",169,"Senior high school",1000
+"264","North",51,"Elementary school",0,"Fair",156,"Very happy",166,"Elementary school",700
+"265","North",30,"Junior college",600,"Poor",156,"Not too happy",170,"Senior high school",800
+"266","North",31,"Junior high school",400,"Excellent",158,"Very happy",168,"Junior high school",1000
+"267","North",31,"Junior high school",600,"Fair",165,"Somewhat happy",168,"Junior high school",900
+"268","North",52,"Junior high school",900,"Fair",164,"Somewhat happy",178,"Senior high school",1000
+"269","North",29,"Junior college",1000,"Good",164,"Somewhat happy",176,"Senior high school",1000
+"270","North",56,"Junior high school",700,"Good",160,"Very happy",176,"Junior high school",1000
+"271","North",34,"Senior high school",600,"Good",160,"Somewhat happy",176,"Junior college",800
+"272","North",53,"Senior high school",500,"Fair",165,"Very happy",171,"Elementary school",700
+"273","North",53,"Junior high school",200,"Fair",162,"Somewhat happy",160,"Junior high school",1000
+"274","North",27,"Senior high school",300,"Fair",155,"Somewhat happy",170,"Senior high school",1000
+"275","North",46,"Elementary school",400,"Fair",156,"Somewhat happy",168,"Elementary school",1000
+"276","North",27,"Junior college",500,"Good",163,"Somewhat happy",173,"Senior high school",2000
+"277","North",31,"University",1000,"Fair",158,"Somewhat happy",164,"University",1000
+"278","North",41,"Senior high school",0,"Not good",154,"Somewhat happy",164,"Junior high school",700
+"279","North",45,"Elementary school",0,"Fair",164,"Very happy",173,"Senior high school",800
+"280","North",34,"Senior high school",800,"Good",158,"Somewhat happy",178,"Junior high school",900
+"281","North",26,"Senior high school",500,"Fair",157,"Somewhat happy",170,"Senior high school",1000
+"282","North",31,"Senior high school",800,"Good",160,"Somewhat happy",172,"University",1000
+"283","North",37,"Senior high school",900,"Good",155,"Very happy",170,"Junior high school",1000
+"284","North",37,"Senior high school",1000,"Good",163,"Somewhat happy",178,"Senior high school",1000
+"285","North",27,"Senior high school",600,"Fair",160,"Somewhat happy",178,"Senior high school",1000
+"286","North",29,"Senior high school",500,"Fair",161,"Somewhat happy",176,"Senior high school",1000
+"287","North",29,"Junior college",1000,"Excellent",155,"Somewhat happy",172,"Junior high school",1000
+"288","North",31,"Junior college",700,"Good",158,"Somewhat happy",172,"Senior high school",800
+"289","North",30,"Junior high school",400,"Good",160,"Not too happy",170,"Junior high school",500
+"290","North",37,"Junior high school",400,"Good",156,"Somewhat happy",174,"Senior high school",500
+"291","North",47,"Junior high school",600,"Good",158,"Somewhat happy",170,"Junior high school",700
+"292","North",56,"Senior high school",900,"Excellent",156,"Somewhat happy",170,"Elementary school",900
+"293","North",37,"Junior high school",400,"Fair",164,"Somewhat happy",178,"Senior high school",700
+"294","North",24,"Junior high school",500,"Excellent",160,"Very happy",173,"Senior high school",1000
+"295","North",35,"Senior high school",800,"Excellent",160,"Somewhat happy",176,"Junior high school",1000
+"296","North",35,"Never attended school",100,"Excellent",160,"Very happy",170,"Never attended school",100
+"297","North",23,"Senior high school",700,"Good",166,"Very happy",170,"Junior high school",1000
+"298","North",36,"Junior college",800,"Good",162,"Somewhat happy",175,"Senior high school",1000
+"299","North",36,"Junior high school",1000,"Fair",156,"Somewhat happy",173,"Junior high school",1000
+"300","North",60,"University",1000,"Fair",150,"Somewhat happy",168,"Junior college",1000
+"301","North",28,"Senior high school",500,"Excellent",156,"Somewhat happy",183,"Senior high school",400
+"302","North",59,"Never attended school",200,"Good",160,"Somewhat happy",168,"Elementary school",1000
+"303","North",41,"Junior high school",1000,"Good",154,"Somewhat happy",170,"Junior college",1000
+"304","North",33,"Junior high school",600,"Good",168,"Somewhat happy",169,"Junior high school",1000
+"305","North",33,"Senior high school",500,"Good",160,"Somewhat happy",170,"Senior high school",2000
+"306","North",29,"Senior high school",800,"Fair",165,"Somewhat happy",179,"Senior high school",500
+"307","North",27,"Junior college",500,"Good",165,"Somewhat happy",176,"Senior high school",1000
+"308","North",61,"Never attended school",200,"Fair",155,"Very happy",174,"Never attended school",2000
+"309","North",30,"Junior high school",800,"Good",158,"Somewhat happy",162,"Junior high school",800
+"310","North",57,"Junior high school",800,"Fair",161,"Somewhat happy",174,"Junior high school",1000
+"311","Central West",39,"Junior high school",80,"Good",170,"Very happy",170,"Senior high school",80
+"312","Central West",42,"Never attended school",20,"Good",156,"Somewhat happy",178,"Junior high school",20
+"313","Central West",49,"Never attended school",30,"Good",160,"Somewhat happy",170,"Never attended school",30
+"314","Central West",33,"Elementary school",60,"Good",150,"Not too happy",167,"Senior high school",200
+"315","Central West",30,"Never attended school",30,"Excellent",155,"Somewhat happy",170,"Elementary school",30
+"316","Central West",46,"Never attended school",100,"Good",160,"Not too happy",165,"Elementary school",0
+"317","Central West",34,"Elementary school",10,"Not good",156,"Not too happy",170,"Elementary school",10
+"318","Central West",33,"Never attended school",100,"Good",160,"Somewhat happy",165,"Senior high school",100
+"319","Central West",30,"Junior high school",10,"Fair",159,"Not too happy",168,"Junior high school",10
+"320","Central West",30,"Never attended school",100,"Good",155,"Somewhat happy",170,"Never attended school",100
+"321","Central West",60,"Never attended school",0,"Not good",150,"Not too happy",170,"Never attended school",0
+"322","Central West",26,"Elementary school",200,"Excellent",150,"Not too happy",170,"Elementary school",200
+"323","Central West",59,"Never attended school",200,"Fair",158,"Somewhat happy",162,"Junior high school",200
+"324","Central West",61,"Never attended school",60,"Good",157,"Somewhat happy",157,"Junior high school",60
+"325","Central West",28,"Junior high school",80,"Good",158,"Somewhat happy",170,"Junior high school",80
+"326","Central West",35,"Junior high school",70,"Good",154,"Somewhat happy",170,"Senior high school",70
+"327","Central West",26,"Elementary school",40,"Excellent",165,"Very happy",173,"Senior high school",40
+"328","Central West",35,"Junior high school",100,"Excellent",154,"Very happy",170,"Elementary school",100
+"329","Central West",36,"Elementary school",60,"Excellent",160,"Somewhat happy",170,"Junior high school",60
+"330","Central West",53,"Elementary school",40,"Fair",154,"Somewhat happy",170,"Elementary school",40
+"331","Central West",39,"Elementary school",200,"Good",160,"Very happy",172,"Junior high school",200
+"332","Central West",33,"Elementary school",100,"Not good",160,"Somewhat happy",178,"Senior high school",100
+"333","Central West",32,"Never attended school",60,"Excellent",161,"Very happy",162,"Elementary school",60
+"334","Central West",50,"Never attended school",40,"Good",158,"Somewhat happy",175,"Junior high school",40
+"335","Central West",44,"Never attended school",80,"Excellent",158,"Very happy",182,"Never attended school",80
+"336","Inlands",50,"Never attended school",40,"Not good",150,"Somewhat happy",170,"Never attended school",100
+"337","Inlands",36,"Elementary school",300,"Good",160,"Somewhat happy",165,"Senior high school",300
+"338","Inlands",39,"Never attended school",30,"Good",160,"Somewhat happy",170,"Junior high school",30
+"339","Inlands",35,"Elementary school",100,"Fair",150,"Somewhat happy",170,"Elementary school",200
+"340","Inlands",30,"Elementary school",80,"Not good",160,"Somewhat happy",165,"Elementary school",80
+"341","Inlands",30,"Never attended school",40,"Excellent",155,"Somewhat happy",165,"Junior high school",300
+"342","Inlands",50,"Elementary school",200,"Fair",157,"Somewhat happy",165,"Elementary school",500
+"343","Inlands",37,"Elementary school",100,"Good",155,"Somewhat happy",165,"Senior high school",300
+"344","Inlands",40,"Elementary school",100,"Fair",156,"Somewhat happy",160,"Elementary school",200
+"345","Inlands",43,"Elementary school",300,"Good",155,"Somewhat happy",160,"Elementary school",300
+"346","Inlands",49,"Elementary school",10,"Excellent",150,"Not too happy",165,"Elementary school",10
+"347","Inlands",41,"Never attended school",200,"Not good",156,"Not too happy",175,"Junior high school",200
+"348","Inlands",31,"Elementary school",80,"Good",157,"Somewhat happy",168,"Elementary school",80
+"349","Inlands",33,"Elementary school",200,"Not good",160,"Not too happy",160,"Elementary school",200
+"350","Inlands",33,"Never attended school",200,"Not good",150,"Not too happy",170,"Elementary school",200
+"351","Inlands",50,"Elementary school",60,"Good",157,"Somewhat happy",165,"Junior high school",60
+"352","Inlands",37,"Elementary school",40,"Not good",158,"Not too happy",170,"Senior high school",40
+"353","Inlands",42,"Elementary school",80,"Good",156,"Somewhat happy",160,"Elementary school",80
+"354","Inlands",35,"Elementary school",200,"Good",150,"Somewhat happy",165,"Junior high school",200
+"355","Inlands",23,"Junior high school",200,"Excellent",163,"Somewhat happy",167,"Elementary school",200
+"356","Inlands",26,"Elementary school",80,"Good",157,"Not too happy",162,"Junior high school",80
+"357","Inlands",27,"Elementary school",70,"Excellent",155,"Somewhat happy",160,"Elementary school",70
+"358","Inlands",43,"Never attended school",200,"Good",157,"Somewhat happy",165,"Elementary school",200
+"359","Inlands",43,"Elementary school",100,"Excellent",158,"Somewhat happy",158,"Elementary school",100
+"360","Inlands",47,"Elementary school",60,"Fair",145,"Very unhappy",167,"Elementary school",60
+"361","Inlands",27,"Elementary school",100,"Good",155,"Somewhat happy",155,"Elementary school",100
+"362","Inlands",40,"Elementary school",50,"Not good",156,"Not too happy",157,"Junior high school",50
+"363","Inlands",43,"Never attended school",40,"Good",166,"Somewhat happy",167,"Elementary school",40
+"364","Inlands",43,"Elementary school",300,"Good",150,"Somewhat happy",162,"Elementary school",400
+"365","Inlands",23,"Junior high school",300,"Good",163,"Somewhat happy",173,"Elementary school",300
+"366","Inlands",34,"Elementary school",80,"Good",150,"Very happy",160,"Junior high school",80
+"367","Inlands",35,"Elementary school",200,"Excellent",156,"Very happy",160,"Junior high school",500
+"368","Inlands",42,"Junior high school",900,"Excellent",154,"Somewhat happy",172,"Senior high school",500
+"369","Inlands",50,"Elementary school",80,"Good",150,"Somewhat happy",160,NA,300
+"370","Inlands",58,"Junior high school",400,"Good",159,"Somewhat happy",165,"Elementary school",600
+"371","Inlands",24,"Senior high school",200,"Fair",160,"Somewhat happy",170,"Senior high school",700
+"372","Inlands",55,"Senior high school",300,"Fair",160,"Not too happy",170,"Junior college",800
+"373","Inlands",28,"Senior high school",500,"Good",162,"Somewhat happy",176,"Senior high school",600
+"374","Inlands",26,"Junior college",1000,"Fair",165,"Not too happy",175,"University",800
+"375","Inlands",52,"Senior high school",600,"Good",161,"Very unhappy",179,"University",600
+"376","Inlands",33,"Senior high school",500,"Excellent",154,"Very happy",167,"Elementary school",700
+"377","Inlands",34,"Junior high school",0,"Good",158,"Somewhat happy",180,"Senior high school",100
+"378","Inlands",37,"Senior high school",100,"Good",165,"Somewhat happy",176,"Junior high school",100
+"379","Inlands",28,"Senior high school",300,"Good",165,"Somewhat happy",170,"Senior high school",300
+"380","Inlands",57,"University",1000,"Good",162,"Somewhat happy",173,"University",1000
+"381","Inlands",55,"Elementary school",300,"Good",155,"Not too happy",175,"Junior high school",400
+"382","Inlands",49,"Never attended school",300,"Good",151,"Somewhat happy",174,"Junior high school",1000
+"383","Inlands",37,"Senior high school",300,"Not good",162,"Somewhat happy",173,"Senior high school",300
+"384","Inlands",38,"Senior high school",500,"Fair",155,"Somewhat happy",176,"Senior high school",300
+"385","Inlands",52,"Junior high school",600,"Good",166,"Not too happy",172,"Junior high school",400
+"386","Inlands",46,"Senior high school",800,"Good",168,"Not too happy",172,"Senior high school",300
+"387","Inlands",60,"Senior high school",500,"Good",150,"Not too happy",168,"Junior high school",1000
+"388","Inlands",34,"Junior high school",0,"Good",152,"Somewhat happy",165,"Senior high school",600
+"389","Inlands",59,"Elementary school",200,"Good",158,"Somewhat happy",160,"Elementary school",400
+"390","Inlands",50,"Elementary school",200,"Excellent",158,"Somewhat happy",158,"Junior high school",500
+"391","Inlands",38,"Senior high school",400,"Fair",160,"Somewhat happy",170,"Junior college",500
+"392","Inlands",45,"Senior high school",900,"Good",154,"Somewhat happy",164,"University",1000
+"393","Inlands",37,"Senior high school",400,"Good",157,"Somewhat happy",176,"Senior high school",800
+"394","Inlands",43,"Senior high school",900,"Excellent",162,"Very happy",161,"Junior high school",1000
+"395","Inlands",32,"Junior high school",500,"Poor",158,"Somewhat happy",170,"University",2000
+"396","Inlands",47,"Junior college",1000,"Fair",152,"Very happy",168,"Junior college",1000
+"397","Inlands",54,"Junior high school",400,"Not good",159,"Not too happy",162,"Junior high school",400
+"398","Inlands",48,"Junior high school",200,"Fair",154,"Very happy",167,"Junior high school",800
+"399","Inlands",45,"Junior high school",900,"Good",153,"Not too happy",173,"Junior high school",500
+"400","Inlands",23,"Senior high school",300,"Good",157,"Very happy",165,"Junior high school",600
+"401","Inlands",52,"Senior high school",1000,"Good",157,"Somewhat happy",171,"Senior high school",1000
+"402","Inlands",63,"Elementary school",200,"Not good",150,"Somewhat happy",160,"University",800
+"403","Inlands",46,"Senior high school",600,"Fair",158,"Somewhat happy",170,"Junior high school",600
+"404","Inlands",59,"Elementary school",400,"Good",163,"Somewhat happy",168,"Elementary school",400
+"405","Inlands",38,"Junior college",1000,"Good",160,"Somewhat happy",178,"Senior high school",1000
+"406","Inlands",60,"Junior high school",400,"Not good",154,"Somewhat happy",162,"Junior high school",1000
+"407","Inlands",61,"Elementary school",600,"Poor",156,"Somewhat happy",178,"Junior high school",1000
+"408","Inlands",58,"Junior high school",600,"Good",160,"Somewhat happy",174,"Junior high school",1000
+"409","Inlands",45,"Junior high school",900,"Excellent",157,"Somewhat happy",163,"Junior high school",1000
+"410","Coastal South",37,"Senior high school",600,"Good",175,"Somewhat happy",177,"Junior high school",1000
+"411","Coastal South",30,"Junior high school",300,"Excellent",140,"Very happy",163,"Junior high school",500
+"412","Coastal South",30,"Junior high school",600,"Fair",167,"Somewhat happy",170,"Junior high school",500
+"413","Coastal South",42,"Senior high school",500,"Good",150,"Somewhat happy",170,"Junior high school",500
+"414","Coastal South",30,"Senior high school",1000,"Not good",155,"Somewhat happy",163,"Junior college",1000
+"415","Coastal South",43,"Senior high school",400,"Good",157,"Somewhat happy",170,"Senior high school",1000
+"416","Coastal South",40,"Junior high school",1000,"Excellent",161,"Very happy",175,"Senior high school",1000
+"417","Coastal South",43,"Never attended school",400,"Excellent",160,"Very happy",170,"Junior high school",800
+"418","Coastal South",50,"Junior high school",900,"Fair",157,"Somewhat happy",170,"Senior high school",900
+"419","Coastal South",39,"Senior high school",400,"Excellent",150,"Very happy",170,"Senior high school",1000
+"420","Coastal South",44,"Senior high school",200,"Not good",156,"Not too happy",177,"Senior high school",1000
+"421","Coastal South",44,"Senior high school",600,"Fair",156,"Somewhat happy",158,"University",1000
+"422","Coastal South",32,"Elementary school",500,"Fair",156,"Somewhat happy",167,"Junior high school",800
+"423","Coastal South",50,"Senior high school",2000,"Fair",153,"Very happy",164,"Elementary school",1000
+"424","Coastal South",40,"Senior high school",600,"Fair",155,"Somewhat happy",163,"Senior high school",1000
+"425","Coastal South",23,"Senior high school",2000,"Good",163,"Somewhat happy",170,"University",5000
+"426","Coastal South",28,"Senior high school",600,"Good",157,"Somewhat happy",173,"Senior high school",700
+"427","Coastal South",26,"Senior high school",600,"Excellent",163,"Somewhat happy",170,"Junior high school",800
+"428","Coastal South",22,"Junior high school",500,"Excellent",158,"Somewhat happy",162,"Elementary school",2000
+"429","Coastal South",30,"Junior high school",500,"Excellent",160,"Somewhat happy",175,"Senior high school",500
+"430","Coastal South",59,"Junior college",1000,"Not good",157,"Somewhat happy",170,"Senior high school",1000
+"431","Coastal South",38,"Junior college",1000,"Fair",167,"Somewhat happy",172,"Senior high school",3000
+"432","Coastal South",48,"Junior high school",400,"Not good",158,"Very happy",160,"Junior college",1000
+"433","Coastal South",39,"Senior high school",600,"Excellent",153,"Very happy",163,"Junior high school",600
+"434","Coastal South",27,"Junior college",1000,"Good",163,"Somewhat happy",173,"Junior college",1000
+"435","Coastal South",34,"Junior high school",600,"Excellent",155,"Somewhat happy",175,"Junior high school",800
+"436","Coastal South",35,"Junior college",1000,"Not good",158,"Not too happy",165,"Senior high school",400
+"437","Coastal South",24,"Junior high school",600,"Excellent",164,"Very happy",170,"Junior high school",1000
+"438","Coastal South",28,"Senior high school",700,"Not good",158,"Somewhat happy",170,"Senior high school",2000
+"439","Coastal South",55,"Senior high school",800,"Not good",152,"Very unhappy",170,"University",1000
+"440","Coastal South",40,"Senior high school",1000,"Fair",162,"Somewhat happy",174,"University",2000
+"441","Coastal South",27,"Senior high school",1000,"Good",160,"Somewhat happy",170,"Senior high school",2000
+"442","Coastal South",25,"Junior college",900,"Fair",148,"Somewhat happy",170,"Senior high school",2000
+"443","Coastal South",36,"University",3000,"Fair",163,"Somewhat happy",172,"University",10000
+"444","Coastal South",55,"Elementary school",0,"Good",140,"Very happy",169,"Elementary school",600
+"445","Coastal South",50,"Senior high school",400,"Good",159,"Very happy",174,"University",3000
+"446","Coastal South",41,"Senior high school",1000,"Good",164,"Somewhat happy",176,"Senior high school",1000
+"447","Coastal South",40,"Junior high school",500,"Excellent",163,"Somewhat happy",160,"Senior high school",500
+"448","Coastal South",35,"Junior high school",800,"Excellent",163,"Somewhat happy",168,"Senior high school",1000
+"449","Coastal South",35,"Junior high school",400,"Fair",156,"Somewhat happy",160,"Junior high school",800
+"450","Coastal South",42,"Junior college",10000,"Fair",158,"Very happy",160,"Senior high school",5000
+"451","Coastal South",44,"Senior high school",800,"Good",162,"Very happy",173,"Senior high school",500
+"452","Coastal South",43,"Senior high school",500,"Fair",164,"Somewhat happy",164,"Senior high school",500
+"453","Coastal South",33,"Junior college",2000,"Good",159,"Somewhat happy",180,"Senior high school",3000
+"454","Coastal South",30,"Elementary school",700,"Excellent",158,"Somewhat happy",168,"Elementary school",800
+"455","Coastal South",38,"Senior high school",500,"Good",156,"Somewhat happy",171,"Senior high school",300
+"456","Coastal South",37,"Junior college",800,"Good",157,"Somewhat happy",173,"Junior college",800
+"457","Coastal South",36,"Senior high school",1000,"Fair",163,"Somewhat happy",170,"Senior high school",2000
+"458","Coastal South",40,"Senior high school",1000,"Excellent",157,"Very happy",169,"Senior high school",3000
+"459","Coastal South",57,"Junior high school",500,"Fair",156,"Not too happy",174,"Junior high school",800
+"460","Coastal South",43,"Elementary school",500,"Fair",158,"Somewhat happy",170,"Senior high school",500
+"461","Coastal South",29,"Junior high school",500,"Excellent",154,"Somewhat happy",169,"Junior high school",700
+"462","Coastal South",34,"Senior high school",600,"Good",156,"Somewhat happy",171,"Senior high school",2000
+"463","Coastal South",45,"Senior high school",600,"Fair",149,"Not too happy",168,"Senior high school",1000
+"464","Coastal South",31,"Junior high school",0,"Fair",160,"Somewhat happy",170,"Senior high school",2000
+"465","Coastal South",31,"Senior high school",700,"Good",155,"Somewhat happy",169,"Junior college",3000
+"466","Coastal South",41,"Elementary school",0,"Not good",150,"Somewhat happy",164,"Senior high school",900
+"467","Coastal South",36,"Senior high school",2000,"Fair",160,"Somewhat happy",168,"Senior high school",2000
+"468","Coastal South",64,"Never attended school",200,"Good",156,"Very happy",166,"Elementary school",2000
+"469","Coastal South",35,"Senior high school",1000,"Good",164,"Somewhat happy",176,"Senior high school",5000
+"470","Coastal South",42,"Junior high school",700,"Good",154,"Somewhat happy",164,"Senior high school",1000
+"471","Coastal South",28,"Junior high school",500,"Fair",162,"Not too happy",170,"Junior high school",500
+"472","Coastal South",27,"Junior high school",2000,"Good",159,"Somewhat happy",162,"Junior high school",500
+"473","Coastal South",29,"Junior high school",400,"Good",161,"Somewhat happy",168,"Senior high school",2000
+"474","Coastal South",54,"Junior high school",400,"Good",153,"Somewhat happy",165,"Elementary school",600
+"475","Coastal South",45,"Junior high school",800,"Good",159,"Somewhat happy",169,"Junior high school",800
+"476","Coastal South",23,"Junior college",1000,"Not good",160,"Not too happy",163,"Senior high school",4000
+"477","Coastal South",46,"Junior high school",600,"Good",157,"Very happy",162,"Senior high school",3000
+"478","Coastal South",29,"Senior high school",300,"Good",167,"Somewhat happy",167,"Junior college",1000
+"479","Coastal South",39,"Senior high school",800,"Fair",154,"Not too happy",168,"Elementary school",900
+"480","Coastal South",28,"Senior high school",800,"Good",152,"Somewhat happy",170,"Senior high school",900
+"481","Coastal South",33,"Junior college",1000,"Good",154,"Somewhat happy",171,"Junior college",4000
+"482","Coastal South",42,"Junior high school",700,"Good",158,"Very happy",168,"Junior high school",800
+"483","Coastal South",62,"Junior high school",1000,"Fair",152,"Somewhat happy",167,"Junior high school",1000
+"484","Coastal South",20,"Junior high school",600,"Excellent",165,"Somewhat happy",173,"Senior high school",1000
+"485","Coastal South",23,"Senior high school",500,"Excellent",163,"Very happy",171,"Junior high school",700
+"486","Coastal South",61,"Elementary school",0,"Good",151,"Very happy",165,"Elementary school",700
+"487","Coastal South",36,"Junior high school",1000,"Excellent",158,"Somewhat happy",178,"Elementary school",1000
+"488","Coastal South",46,"Junior high school",500,"Good",156,"Very happy",176,"Junior high school",2000
+"489","Coastal South",38,"Senior high school",1000,"Good",160,"Very happy",170,"Senior high school",2000
+"490","Coastal South",40,"Senior high school",300,"Good",160,"Somewhat happy",165,"Senior high school",500
+"491","Coastal South",36,"Elementary school",1000,"Excellent",160,"Somewhat happy",175,"Senior high school",500
+"492","Coastal South",23,"Junior college",1000,"Fair",163,"Very happy",171,"Junior college",2000
+"493","Coastal South",42,"Senior high school",1000,"Good",152,"Somewhat happy",168,"Junior high school",1000
+"494","Coastal South",47,"Junior high school",800,"Good",150,"Somewhat happy",165,"Junior high school",800
+"495","Coastal South",27,"Elementary school",500,"Excellent",153,"Somewhat happy",160,"Junior high school",900
+"496","Coastal South",42,"Junior college",2000,"Good",158,"Somewhat happy",170,"Senior high school",2000
+"497","Coastal South",34,"Junior high school",500,"Excellent",153,"Somewhat happy",168,"Junior high school",2000
+"498","Coastal South",43,"Senior high school",1000,"Good",148,"Very happy",174,"Senior high school",1000
+"499","Coastal South",55,"Junior high school",700,"Fair",165,"Somewhat happy",166,"University",800
+"500","Coastal South",33,"University",2000,"Good",156,"Somewhat happy",177,"University",2000
+"501","Coastal South",51,"Senior high school",2000,"Fair",148,"Somewhat happy",168,"Senior high school",2000
+"502","Coastal South",29,"Senior high school",800,"Fair",159,"Somewhat happy",172,"Senior high school",1000
+"503","Coastal South",28,"Junior high school",800,"Fair",158,"Somewhat happy",172,"Junior college",800
+"504","Coastal South",41,"Senior high school",1000,"Good",158,"Very happy",170,"University",2000
+"505","Coastal South",41,"Elementary school",400,"Excellent",165,"Not too happy",165,"Senior high school",300
+"506","Coastal South",43,"Never attended school",400,"Good",157,"Somewhat happy",168,"Junior high school",600
+"507","Coastal South",59,"Never attended school",300,"Fair",150,"Somewhat happy",170,"Elementary school",500
+"508","Coastal South",41,"Senior high school",1000,"Fair",148,"Not too happy",170,"Senior high school",1000
+"509","Coastal South",27,"Elementary school",1000,"Good",163,"Somewhat happy",170,"Junior high school",1000
+"510","Coastal South",37,"Senior high school",800,"Fair",156,"Somewhat happy",165,"Senior high school",1000
+"511","Coastal South",38,"Senior high school",700,"Fair",165,"Somewhat happy",170,"Senior high school",2000
+"512","Coastal South",48,"Elementary school",600,"Fair",160,"Somewhat happy",160,"Senior high school",700
+"513","Coastal South",25,"Elementary school",500,"Fair",152,"Not too happy",160,"Senior high school",800
+"514","Coastal South",44,"Junior high school",700,"Fair",163,"Somewhat happy",170,"Elementary school",800
+"515","Coastal South",22,"Senior high school",2000,"Good",159,"Somewhat happy",168,"Junior high school",8000
+"516","Coastal South",51,"Senior high school",900,"Fair",151,"Somewhat happy",163,"Elementary school",500
+"517","Coastal South",36,"Senior high school",0,"Fair",160,"Not too happy",170,"Senior high school",1000
+"518","Coastal South",45,"Elementary school",400,"Fair",156,"Not too happy",169,"Senior high school",1000
+"519","Coastal South",28,"Senior high school",0,"Good",168,"Somewhat happy",170,"Senior high school",900
+"520","Coastal South",48,"Junior high school",300,"Good",158,"Somewhat happy",167,"Senior high school",700
+"521","Coastal South",30,"Junior high school",1000,"Good",158,"Somewhat happy",163,"Junior high school",3000
+"522","Coastal South",22,"Junior high school",1000,"Fair",156,"Somewhat happy",160,"Senior high school",2000
+"523","Coastal South",21,"Elementary school",1000,"Excellent",158,"Very happy",170,"Junior high school",1000
+"524","Coastal South",38,"Senior high school",500,"Fair",160,"Somewhat happy",170,"Senior high school",2000
+"525","Coastal South",33,"Senior high school",400,"Fair",155,"Somewhat happy",170,"Senior high school",2000
+"526","Coastal South",53,"Senior high school",600,"Fair",155,"Somewhat happy",165,"Senior high school",600
+"527","Coastal South",35,"Senior high school",0,"Good",156,"Somewhat happy",175,"Senior high school",1000
+"528","Coastal South",60,"Senior high school",700,"Fair",160,"Somewhat happy",173,"Junior high school",2000
+"529","Coastal South",20,"Senior high school",1000,"Good",167,"Somewhat happy",170,"Senior high school",1000
+"530","Coastal South",46,"Senior high school",600,"Fair",158,"Somewhat happy",170,"Junior high school",600
+"531","Coastal South",54,"Elementary school",800,"Fair",165,"Somewhat happy",170,"Junior college",1000
+"532","Coastal South",45,"Junior high school",900,"Fair",148,"Somewhat happy",172,"Senior high school",500
+"533","Coastal South",28,"Senior high school",0,"Fair",163,"Somewhat happy",174,"Senior high school",2000
+"534","Coastal South",37,"Junior high school",0,"Fair",156,"Somewhat happy",163,"Senior high school",600
+"535","Coastal South",30,"University",2000,"Good",158,"Somewhat happy",174,"University",2000
+"536","Coastal South",42,"Senior high school",500,"Excellent",151,"Very happy",169,"Senior high school",1000
+"537","Coastal South",28,"Senior high school",400,"Good",146,"Very happy",168,"Senior high school",600
+"538","Coastal South",30,"Elementary school",400,"Good",150,"Somewhat happy",160,"Junior high school",400
+"539","Coastal South",39,"Junior high school",300,"Good",156,"Somewhat happy",170,"Senior high school",500
+"540","Coastal South",35,"Junior high school",500,"Excellent",158,"Very happy",162,"Senior high school",800
+"541","Coastal South",60,"Senior high school",200,"Good",162,"Somewhat happy",165,"Junior high school",600
+"542","Coastal South",32,"Senior high school",400,"Fair",155,"Not too happy",169,"Senior high school",1000
+"543","Coastal South",36,"Senior high school",300,"Good",155,"Not too happy",168,"Junior high school",400
+"544","Coastal South",35,"Senior high school",700,"Good",160,"Very happy",178,"Senior high school",1000
+"545","Coastal South",48,"Junior high school",200,"Good",156,"Somewhat happy",159,"Senior high school",800
+"546","Coastal South",38,"Junior high school",600,"Excellent",158,"Very happy",175,"Senior high school",2000
+"547","Coastal South",38,"Junior high school",0,"Excellent",156,"Not too happy",171,"Junior high school",500
+"548","Coastal South",33,"Junior high school",300,"Excellent",159,"Somewhat happy",165,"Senior high school",2000
+"549","Coastal South",27,"Junior college",500,"Excellent",160,"Very happy",170,"Junior college",600
+"550","Coastal South",46,"Junior high school",600,"Good",163,"Very happy",170,"Junior college",1000
+"551","Coastal South",35,"Junior high school",400,"Fair",155,"Somewhat happy",168,"Junior high school",500
+"552","Coastal South",44,"Junior high school",500,"Excellent",160,"Somewhat happy",170,"Junior high school",800
+"553","Coastal South",36,"Junior high school",200,"Good",159,"Not too happy",170,"Senior high school",600
+"554","Coastal South",30,"Senior high school",400,"Good",159,"Somewhat happy",167,"Junior college",500
+"555","Coastal South",37,"Junior high school",1000,"Fair",153,"Somewhat happy",162,"Senior high school",1000
+"556","Coastal South",34,"Senior high school",700,"Excellent",162,"Very happy",169,"Senior high school",900
+"557","Coastal South",36,"Junior high school",600,"Good",150,"Somewhat happy",165,"Senior high school",800
+"558","Coastal South",23,"Senior high school",400,"Fair",157,"Somewhat happy",170,"Junior high school",600
+"559","Coastal South",36,"Senior high school",700,"Good",156,"Somewhat happy",173,"Junior high school",1000
+"560","Inlands",24,"Senior high school",400,"Fair",158,"Somewhat happy",168,"Junior college",1000
+"561","Inlands",31,"Junior college",0,"Fair",155,"Somewhat happy",169,"Senior high school",400
+"562","Inlands",37,"Elementary school",300,"Excellent",160,"Very happy",170,"Senior high school",500
+"563","Inlands",43,"Elementary school",30,"Good",158,"Somewhat happy",172,"Junior college",30
+"564","Inlands",27,"Junior high school",400,"Fair",163,"Somewhat happy",170,"Junior high school",600
+"565","Inlands",42,"Never attended school",0,"Good",152,"Somewhat happy",172,"Elementary school",300
+"566","Inlands",37,"Junior high school",400,"Good",157,"Somewhat happy",170,"Junior high school",400
+"567","Inlands",37,"Elementary school",400,"Good",161,"Somewhat happy",158,"Junior high school",400
+"568","Inlands",32,"Senior high school",400,"Good",159,"Somewhat happy",165,"University",400
+"569","Inlands",48,"Junior high school",400,"Fair",158,"Somewhat happy",173,"Senior high school",800
+"570","Inlands",41,"Junior high school",800,"Excellent",160,"Somewhat happy",170,"Senior high school",1000
+"571","Inlands",45,"Elementary school",200,"Fair",153,"Not too happy",165,"Elementary school",500
+"572","Inlands",27,"Junior high school",300,"Excellent",154,"Somewhat happy",170,"Junior high school",400
+"573","Inlands",46,"Junior high school",300,"Excellent",160,"Very happy",170,"Senior high school",400
+"574","Inlands",30,"Junior high school",400,"Excellent",155,"Not too happy",165,"Junior high school",1000
+"575","Inlands",34,"Junior high school",0,"Excellent",164,"Not too happy",167,"Senior high school",2000
+"576","Inlands",34,"Junior high school",100,"Good",150,"Very happy",166,"Junior high school",600
+"577","Inlands",47,"Elementary school",600,"Excellent",160,"Very happy",170,"Junior high school",700
+"578","Inlands",35,"Junior high school",0,"Fair",158,"Somewhat happy",168,"Elementary school",800
+"579","Inlands",42,"Elementary school",400,"Fair",163,"Somewhat happy",175,"Junior high school",500
+"580","Inlands",30,"Elementary school",500,"Excellent",156,"Somewhat happy",158,"Junior high school",700
+"581","Inlands",42,"Elementary school",200,"Good",152,"Somewhat happy",164,"Elementary school",500
+"582","Inlands",44,"Elementary school",200,"Good",161,"Somewhat happy",170,"Elementary school",400
+"583","Inlands",32,"Junior college",1000,"Fair",155,"Somewhat happy",176,"Junior college",2000
+"584","Inlands",44,"Junior high school",800,"Good",162,"Somewhat happy",170,"Senior high school",800
+"585","Inlands",35,"Junior high school",400,"Good",153,"Somewhat happy",166,"Junior high school",500
+"586","Coastal South",29,"Senior high school",2000,"Fair",160,"Somewhat happy",169,"Junior college",3000
+"587","Coastal South",24,"Junior college",2000,"Excellent",156,"Somewhat happy",175,"Junior college",2000
+"588","Coastal South",24,"Senior high school",2000,"Fair",155,"Somewhat happy",165,"University",3000
+"589","Coastal South",42,"Junior high school",800,"Fair",161,"Somewhat happy",173,"Junior high school",2000
+"590","Coastal South",26,"Senior high school",1000,"Excellent",158,"Somewhat happy",175,"Senior high school",2000
+"591","Coastal South",30,"Elementary school",1000,"Excellent",155,"Very happy",169,"Junior high school",1000
+"592","Coastal South",21,"Senior high school",2000,"Not good",153,"Not too happy",175,"University",6000
+"593","Coastal South",30,"Senior high school",1000,"Fair",168,"Somewhat happy",178,"Junior college",2000
+"594","Coastal South",38,"Junior high school",2000,"Excellent",159,"Very happy",169,"Junior high school",2000
+"595","Coastal South",31,"Junior high school",0,"Fair",160,"Not too happy",170,"Senior high school",10000
+"596","Coastal South",31,"University",2000,"Good",160,"Somewhat happy",170,"University",4000
+"597","Coastal South",23,"Senior high school",2000,"Good",163,"Somewhat happy",176,"Junior college",2000
+"598","Coastal South",31,"Senior high school",1000,"Good",160,"Somewhat happy",170,"Junior college",2000
+"599","Coastal South",34,"Junior high school",300,"Fair",150,"Not too happy",168,"Junior high school",1000
+"600","Coastal South",35,"Junior high school",2000,"Fair",170,"Somewhat happy",175,"Junior high school",2000
+"601","Coastal South",35,"Junior high school",800,"Fair",155,"Somewhat happy",165,"Junior high school",800
+"602","Coastal South",44,"University",2000,"Fair",168,"Not too happy",172,"University",2000
+"603","Coastal South",38,"Junior high school",1000,"Fair",156,"Somewhat happy",178,"Senior high school",3000
+"604","Coastal South",23,"Senior high school",1000,"Good",155,"Somewhat happy",160,"Senior high school",2000
+"605","Coastal South",31,"Elementary school",600,"Good",158,"Somewhat happy",160,"Junior high school",3000
+"606","Coastal South",35,"Senior high school",500,"Not good",155,"Somewhat happy",170,"Senior high school",800
+"607","Coastal South",38,"Senior high school",200,"Good",161,"Somewhat happy",170,"Junior high school",600
+"608","Coastal South",27,"Junior high school",600,"Excellent",154,"Very happy",170,"Senior high school",700
+"609","Coastal South",25,"Junior high school",2000,"Excellent",155,"Very happy",163,"Junior high school",10000
+"610","Coastal South",24,"Senior high school",700,"Good",160,"Somewhat happy",180,"Senior high school",1000
+"611","Coastal South",22,"Junior high school",2000,"Excellent",156,"Somewhat happy",173,"Senior high school",2000
+"612","Coastal South",29,"Senior high school",600,"Good",160,"Somewhat happy",173,"Senior high school",600
+"613","Coastal South",39,"Senior high school",700,"Fair",160,"Somewhat happy",170,"Junior high school",700
+"614","Coastal South",33,"Senior high school",600,"Excellent",168,"Very happy",178,"Junior college",1000
+"615","Coastal South",34,"Senior high school",700,"Good",151,"Very happy",173,"Senior high school",900
+"616","Coastal South",42,"Junior high school",700,"Excellent",163,"Very happy",182,"Senior high school",1000
+"617","Coastal South",29,"Senior high school",800,"Fair",160,"Very happy",175,"Junior high school",1000
+"618","Coastal South",35,"Junior high school",600,"Excellent",159,"Very happy",167,"Junior high school",1000
+"619","Coastal South",27,"Junior high school",2000,"Excellent",162,"Very happy",172,"Junior high school",2000
+"620","Coastal South",27,"Junior high school",0,"Excellent",156,"Somewhat happy",170,"Junior high school",1000
+"621","Coastal South",32,"Senior high school",1000,"Good",164,"Somewhat happy",172,"University",2000
+"622","Coastal South",36,"Junior high school",700,"Good",161,"Somewhat happy",175,"Senior high school",5000
+"623","Coastal South",25,"Junior high school",500,"Fair",155,"Not too happy",171,"Senior high school",300
+"624","Coastal South",32,"Senior high school",1000,"Fair",158,"Not too happy",168,"Senior high school",400
+"625","Coastal South",33,"Junior high school",800,"Good",156,"Somewhat happy",173,"Senior high school",600
+"626","Coastal South",29,"Senior high school",500,"Fair",160,"Not too happy",176,"Junior high school",500
+"627","Coastal South",29,"Elementary school",300,"Fair",150,"Very happy",170,"Junior high school",1000
+"628","Coastal South",29,"Junior high school",300,"Fair",159,"Very happy",172,"Junior high school",900
+"629","Coastal South",34,"Elementary school",500,"Excellent",172,"Somewhat happy",184,"Elementary school",500
+"630","Coastal South",43,"Elementary school",1000,"Good",160,"Very happy",165,"Elementary school",800
+"631","Coastal South",40,"Elementary school",400,"Good",163,"Somewhat happy",165,"Junior high school",400
+"632","Coastal South",51,"Senior high school",300,"Good",163,"Somewhat happy",175,"University",2000
+"633","Coastal South",26,"Junior high school",600,"Good",159,"Somewhat happy",175,"Junior high school",1000
+"634","Coastal South",40,"Elementary school",0,"Fair",160,"Somewhat happy",176,"Elementary school",800
+"635","Coastal South",33,"Senior high school",2000,"Fair",159,"Somewhat happy",170,"Junior high school",2000
+"636","Coastal South",37,"Senior high school",1000,"Fair",158,"Somewhat happy",170,"Junior college",3000
+"637","Coastal South",31,"Senior high school",1000,"Fair",163,"Somewhat happy",173,"Senior high school",2000
+"638","Coastal South",43,"Senior high school",600,"Fair",156,"Somewhat happy",182,"Junior college",2000
+"639","Coastal South",47,"Elementary school",300,"Fair",158,"Not too happy",172,"Junior high school",300
+"640","Coastal South",60,"University",1000,"Good",154,"Somewhat happy",161,"Senior high school",1000
+"641","Coastal South",31,"Senior high school",2000,"Fair",150,"Very happy",168,"Senior high school",800
+"642","Coastal South",28,"Junior high school",700,"Good",161,"Somewhat happy",162,"Junior high school",1000
+"643","Coastal South",31,"University",1000,"Fair",160,"Somewhat happy",163,"Junior college",1000
+"644","Coastal South",25,"University",1000,"Good",156,"Somewhat happy",168,"University",3000
+"645","Coastal South",56,"University",2000,"Not good",150,"Somewhat happy",168,"University",2000
+"646","Coastal South",42,"Elementary school",7000,"Good",150,"Somewhat happy",170,"Senior high school",300
+"647","Coastal South",26,"Junior college",1000,"Good",164,"Not too happy",176,"Junior college",1000
+"648","Coastal South",34,"Junior high school",4000,"Good",161,"Very happy",173,"Junior high school",2000
+"649","Coastal South",33,"Senior high school",800,"Good",157,"Somewhat happy",173,"Junior college",1000
+"650","Coastal South",25,"Junior high school",400,"Excellent",160,"Not too happy",168,"Junior college",600
+"651","Coastal South",37,"Junior high school",1000,"Fair",160,"Somewhat happy",167,"Junior high school",2000
+"652","Coastal South",43,"Junior high school",200,"Not good",158,"Somewhat happy",167,"Senior high school",700
+"653","Coastal South",31,"Junior high school",1000,"Fair",162,"Somewhat happy",167,"Junior high school",2000
+"654","Coastal South",25,"Junior high school",2000,"Fair",158,"Somewhat happy",168,"Junior high school",2000
+"655","Coastal South",47,"Elementary school",300,"Fair",155,"Very happy",167,"Junior high school",1000
+"656","Coastal South",30,"University",2000,"Excellent",160,"Very happy",171,"University",2000
+"657","Coastal South",36,"Elementary school",400,"Excellent",160,"Very happy",170,"Elementary school",1000
+"658","Coastal South",55,"Junior high school",500,"Fair",158,"Somewhat happy",165,"Senior high school",800
+"659","Coastal South",40,"Junior high school",800,"Fair",156,"Somewhat happy",173,"Senior high school",2000
+"660","Coastal South",45,"Senior high school",0,"Not good",164,"Somewhat happy",172,"Junior high school",1000
+"661","Coastal South",36,"Junior high school",500,"Fair",156,"Somewhat happy",170,"Senior high school",700
+"662","Coastal South",29,"Elementary school",40,"Fair",163,"Somewhat happy",174,"Junior high school",40
+"663","Coastal South",45,"Senior high school",400,"Fair",155,"Somewhat happy",172,"Elementary school",600
+"664","Coastal South",38,"Senior high school",1000,"Good",156,"Somewhat happy",170,"Senior high school",2000
+"665","Coastal South",38,"Junior high school",0,"Fair",154,"Somewhat happy",175,"Senior high school",800
+"666","Coastal South",21,"Junior high school",500,"Fair",154,"Somewhat happy",172,"Junior high school",600
+"667","Coastal South",36,"Senior high school",500,"Good",162,"Somewhat happy",175,"Senior high school",700
+"668","Coastal South",34,"Junior high school",500,"Excellent",155,"Very happy",167,"Junior high school",1000
+"669","Coastal South",27,"Junior college",1000,"Good",163,"Somewhat happy",173,"University",2000
+"670","Coastal South",28,"Elementary school",0,"Good",160,"Somewhat happy",170,"Junior high school",1000
+"671","Coastal South",42,"Junior college",1000,"Good",172,"Somewhat happy",172,"Junior college",1000
+"672","Coastal South",22,"Senior high school",2000,"Fair",165,"Somewhat happy",172,"Junior high school",10000
+"673","Coastal South",39,"Junior high school",0,"Fair",163,"Very happy",165,"Junior college",2000
+"674","Coastal South",47,"Junior high school",100,"Fair",168,"Very happy",169,"Senior high school",1000
+"675","Coastal South",31,"Junior high school",500,"Not good",157,"Somewhat happy",165,"Senior high school",1000
+"676","Coastal South",35,"Junior high school",300,"Fair",160,"Somewhat happy",170,"Junior high school",400
+"677","Coastal South",26,"Elementary school",0,"Fair",158,"Somewhat happy",170,"Junior high school",1000
+"678","Coastal South",24,"Junior high school",0,"Excellent",152,"Very happy",169,"Senior high school",1000
+"679","Coastal South",26,"Senior high school",1000,"Good",162,"Very happy",172,"University",1000
+"680","Coastal South",28,"Senior high school",0,"Fair",155,"Somewhat happy",167,"Junior high school",2000
+"681","Coastal South",23,"Junior college",1000,"Good",163,"Somewhat happy",176,"University",1000
+"682","Coastal South",36,"Junior high school",0,"Fair",158,"Somewhat happy",175,"Senior high school",500
+"683","Coastal South",36,"Junior high school",0,"Good",163,"Somewhat happy",178,"Senior high school",2000
+"684","Coastal South",31,"Junior high school",2000,"Good",161,"Somewhat happy",178,"Junior high school",3000
+"685","Coastal South",32,"Junior college",1000,"Fair",152,"Somewhat happy",170,"Junior college",1000
+"686","Coastal South",36,"Senior high school",1000,"Good",157,"Somewhat happy",175,"University",1000
+"687","Coastal South",38,"Junior high school",0,"Fair",160,"Somewhat happy",175,"Junior high school",2000
+"688","Coastal South",26,"Senior high school",1000,"Fair",159,"Somewhat happy",169,"Senior high school",4000
+"689","Coastal South",42,"Senior high school",0,"Good",157,"Very happy",170,"Junior high school",1000
+"690","Coastal South",47,"Senior high school",500,"Excellent",158,"Very happy",172,"Senior high school",900
+"691","Coastal South",39,"Senior high school",800,"Fair",160,"Somewhat happy",173,"Junior college",1000
+"692","Coastal South",31,"Senior high school",800,"Fair",160,"Somewhat happy",170,"Senior high school",1000
+"693","Coastal South",50,"Junior college",1000,"Good",156,"Somewhat happy",170,"Senior high school",800
+"694","Coastal South",31,"Junior high school",800,"Fair",164,"Somewhat happy",172,"Junior college",1000
+"695","Coastal South",30,"Elementary school",2000,"Good",157,"Somewhat happy",170,"Junior high school",2000
+"696","Coastal South",34,"Senior high school",2000,"Good",166,"Somewhat happy",178,"Junior high school",2000
+"697","Coastal South",32,"Junior high school",0,"Good",159,"Somewhat happy",173,"Junior high school",1000
+"698","Coastal South",41,"Senior high school",1000,"Fair",159,"Very happy",174,"Junior college",1000
+"699","Coastal South",28,"Junior high school",400,"Good",155,"Very happy",160,"Senior high school",400
+"700","Coastal South",40,"University",600,"Excellent",172,"Very happy",180,"University",8000
+"701","Coastal South",40,"Junior high school",0,"Good",164,"Somewhat happy",173,"Elementary school",1000
+"702","Coastal South",49,"Junior college",3000,"Excellent",158,"Somewhat happy",170,"Junior high school",600
+"703","Coastal South",33,"Junior college",800,"Good",153,"Very happy",168,"Junior college",2000
+"704","Coastal South",39,"Elementary school",6000,"Good",158,"Somewhat happy",175,"Elementary school",6000
+"705","Coastal South",29,"Elementary school",0,"Good",156,"Somewhat happy",166,"Junior high school",900
+"706","Coastal South",41,"Senior high school",400,"Fair",165,"Somewhat happy",173,"Elementary school",500
+"707","Coastal South",29,"Junior high school",500,"Not good",160,"Somewhat happy",170,"Senior high school",1000
+"708","Coastal South",57,"Elementary school",0,"Fair",162,"Very happy",170,"Junior high school",800
+"709","Coastal South",37,"Junior high school",500,"Fair",170,"Not too happy",183,"Junior college",1000
+"710","Coastal South",39,"Junior high school",50,"Fair",161,"Not too happy",173,"Elementary school",500
+"711","Coastal South",45,"Senior high school",600,"Fair",150,"Very happy",175,"Senior high school",1000
+"712","Coastal South",51,"Senior high school",600,"Good",166,"Somewhat happy",173,"Senior high school",800
+"713","Coastal South",30,"University",1000,"Not good",167,"Somewhat happy",173,"University",800
+"714","Coastal South",27,"Senior high school",500,"Fair",150,"Somewhat happy",160,"Junior high school",800
+"715","Coastal South",58,"Junior high school",400,"Good",158,"Very happy",173,"Senior high school",800
+"716","Coastal South",41,"Senior high school",1000,"Fair",162,"Somewhat happy",176,"Senior high school",1000
+"717","Coastal South",26,"Junior high school",300,"Good",156,"Somewhat happy",162,"Junior college",300
+"718","Coastal South",30,"Senior high school",400,"Not good",160,"Very happy",170,"Senior high school",500
+"719","Coastal South",55,"Senior high school",1000,"Good",162,"Somewhat happy",165,"Junior college",1000
+"720","Coastal South",50,"Junior high school",400,"Good",160,"Somewhat happy",163,"Senior high school",1000
+"721","Coastal South",29,"Junior college",800,"Good",160,"Somewhat happy",175,"University",1000
+"722","Coastal South",35,"Senior high school",400,"Not good",161,"Not too happy",168,"Senior high school",1000
+"723","Coastal South",30,"Junior high school",4000,"Excellent",159,"Very happy",169,"University",300
+"724","Coastal South",29,"Junior high school",0,"Excellent",155,"Somewhat happy",170,"Junior high school",2000
+"725","Coastal South",30,"Junior college",1000,"Good",154,"Somewhat happy",168,"University",1000
+"726","Coastal South",52,"Junior high school",300,"Fair",155,"Somewhat happy",170,"Junior college",400
+"727","Coastal South",44,"Senior high school",300,"Fair",159,"Somewhat happy",175,"Senior high school",1000
+"728","Coastal South",27,"Senior high school",700,"Not good",158,"Not too happy",171,"Senior high school",1000
+"729","Coastal South",63,"Senior high school",1000,"Fair",152,"Somewhat happy",170,"University",1000
+"730","Coastal South",48,"Elementary school",2000,"Excellent",158,"Somewhat happy",178,"Junior high school",1000
+"731","Coastal South",39,"Never attended school",500,"Fair",158,"Somewhat happy",165,"Never attended school",600
+"732","Coastal South",33,"Senior high school",400,"Fair",164,"Somewhat happy",171,"Junior high school",500
+"733","Coastal South",30,"Elementary school",800,"Good",159,"Somewhat happy",175,"Elementary school",800
+"734","Coastal South",25,"Elementary school",1000,"Excellent",158,"Very happy",169,"Elementary school",1000
+"735","Coastal South",34,"Elementary school",1000,"Excellent",160,"Very happy",170,"Junior high school",1000
+"736","Coastal South",25,"Elementary school",400,"Good",165,"Somewhat happy",180,"Senior high school",400
+"737","Coastal South",26,"Elementary school",2000,"Good",156,"Somewhat happy",172,"Junior high school",2000
+"738","Coastal South",23,"Senior high school",600,"Good",157,"Somewhat happy",173,"Senior high school",800
+"739","Coastal South",32,"Elementary school",0,"Excellent",160,"Very happy",170,"Elementary school",1000
+"740","Coastal South",37,"Elementary school",400,"Fair",156,"Not too happy",180,"Elementary school",400
+"741","Coastal South",31,"Elementary school",600,"Excellent",158,"Somewhat happy",165,"Elementary school",600
+"742","Coastal South",35,"Elementary school",900,"Excellent",154,"Somewhat happy",168,"Junior high school",900
+"743","Coastal South",27,"Junior high school",0,"Good",156,"Somewhat happy",173,"Junior high school",1000
+"744","Coastal South",26,"Junior high school",0,"Good",157,"Somewhat happy",168,"Junior high school",0
+"745","Coastal South",29,"Junior high school",700,"Fair",159,"Not too happy",170,"Junior high school",600
+"746","Coastal South",42,"Junior high school",0,"Fair",162,"Somewhat happy",169,"Junior high school",2000
+"747","Coastal South",37,"Elementary school",400,"Good",162,"Somewhat happy",168,"Junior high school",400
+"748","Coastal South",28,"Elementary school",0,"Good",160,"Very happy",173,"Elementary school",2000
+"749","Coastal South",30,"Elementary school",200,"Good",160,"Very happy",172,"Elementary school",1000
+"750","Coastal South",32,"Elementary school",400,"Good",156,"Somewhat happy",170,"Elementary school",400
+"751","Coastal South",30,"Junior high school",400,"Good",150,"Somewhat happy",172,"Elementary school",700
+"752","Coastal South",36,"Senior high school",1000,"Good",154,"Very happy",176,"Junior high school",1000
+"753","Coastal South",34,"Junior high school",400,"Good",156,"Somewhat happy",167,"Senior high school",500
+"754","Coastal South",26,"Junior high school",400,"Good",158,"Somewhat happy",170,"Senior high school",2000
+"755","North",23,"Junior high school",400,"Fair",160,"Not too happy",173,"Senior high school",600
+"756","North",51,"Elementary school",90,"Good",165,"Very happy",190,"Elementary school",90
+"757","North",40,"Senior high school",3000,"Excellent",163,"Not too happy",180,"Junior high school",400
+"758","North",29,"Senior high school",600,"Fair",166,"Somewhat happy",174,"Senior high school",1000
+"759","North",43,"Elementary school",400,"Not good",150,"Somewhat happy",170,"Junior high school",400
+"760","North",36,"Senior high school",400,"Good",154,"Somewhat happy",173,"Senior high school",400
+"761","North",38,"Senior high school",800,"Good",161,"Somewhat happy",170,"Junior high school",800
+"762","North",30,"Junior high school",400,"Not good",168,"Somewhat happy",178,"Junior high school",400
+"763","North",36,"Junior high school",200,"Not good",160,"Somewhat happy",176,"Junior high school",200
+"764","North",47,"Junior high school",200,"Fair",165,"Very happy",165,"Elementary school",600
+"765","North",37,"Junior high school",0,"Excellent",160,"Not too happy",170,"Junior high school",300
+"766","North",39,"Senior high school",1000,"Fair",165,"Somewhat happy",174,"Senior high school",1000
+"767","North",45,"Junior high school",600,"Good",157,"Somewhat happy",175,"Elementary school",500
+"768","North",48,"Elementary school",0,"Not good",155,"Somewhat happy",170,"Elementary school",1000
+"769","North",45,"Junior high school",0,"Fair",154,"Not too happy",172,"Elementary school",900
+"770","North",33,"Junior college",600,"Fair",158,"Not too happy",170,"Junior college",1000
+"771","North",44,"Junior high school",300,"Good",156,"Very happy",175,"Elementary school",400
+"772","North",46,"Elementary school",300,"Fair",164,"Somewhat happy",179,"Junior high school",200
+"773","North",35,"Junior high school",600,"Good",164,"Somewhat happy",170,"Junior high school",0
+"774","North",28,"Senior high school",300,"Excellent",150,"Very happy",178,"Senior high school",2000
+"775","North",46,"Junior high school",500,"Fair",166,"Somewhat happy",176,"Junior high school",600
+"776","North",37,"Senior high school",1000,"Good",156,"Very happy",170,"Senior high school",1000
+"777","North",37,"Junior high school",500,"Good",164,"Somewhat happy",180,"Senior high school",800
+"778","North",35,"Junior high school",400,"Good",159,"Somewhat happy",168,"Junior high school",500
+"779","North",38,"Junior high school",300,"Fair",163,"Not too happy",163,"Junior college",1000
+"780","North",38,"Junior high school",200,"Good",155,"Not too happy",175,"Junior high school",500
+"781","North",36,"Senior high school",500,"Excellent",163,"Somewhat happy",176,"Junior high school",1000
+"782","North",28,"Elementary school",400,"Good",145,"Somewhat happy",170,"Elementary school",400
+"783","North",33,"Senior high school",600,"Good",156,"Somewhat happy",178,"Junior high school",2000
+"784","North",57,"Elementary school",200,"Not good",155,"Not too happy",170,"Elementary school",200
+"785","North",40,"Junior high school",600,"Excellent",155,"Somewhat happy",170,"Junior high school",600
+"786","North",47,"Never attended school",0,"Good",155,"Somewhat happy",170,"Elementary school",200
+"787","North",30,"Junior high school",800,"Excellent",168,"Somewhat happy",168,"Junior high school",800
+"788","North",28,"Elementary school",300,"Excellent",158,"Very happy",170,"Junior high school",300
+"789","North",35,"Elementary school",400,"Excellent",155,"Very happy",170,"Senior high school",400
+"790","North",47,"Elementary school",300,"Excellent",164,"Very happy",175,"Elementary school",300
+"791","North",27,"Elementary school",500,"Excellent",155,"Somewhat happy",171,"Junior high school",1000
+"792","North",34,"Elementary school",400,"Excellent",159,"Somewhat happy",175,"Junior high school",400
+"793","North",37,"Elementary school",200,"Fair",153,"Somewhat happy",174,"Junior high school",200
+"794","North",44,"Elementary school",300,"Excellent",159,"Somewhat happy",160,"Elementary school",700
+"795","North",48,"Elementary school",500,"Good",160,"Somewhat happy",175,"Elementary school",500
+"796","North",48,"Elementary school",200,"Fair",155,"Somewhat happy",180,"Elementary school",200
+"797","North",27,"Junior high school",600,"Excellent",158,"Somewhat happy",168,"Junior high school",2000
+"798","North",39,"Never attended school",300,"Not good",162,"Somewhat happy",160,"Never attended school",300
+"799","North",53,"Junior high school",200,"Good",158,"Somewhat happy",162,"Never attended school",200
+"800","North",37,"Junior high school",400,"Excellent",158,"Somewhat happy",180,"Junior high school",400
+"801","North",31,"Junior high school",400,"Excellent",164,"Very happy",173,"Elementary school",2000
+"802","North",25,"Junior high school",500,"Excellent",170,"Very happy",178,"Junior high school",1000
+"803","North",44,"Never attended school",300,"Excellent",160,"Very happy",170,"Senior high school",800
+"804","North",43,"Senior high school",300,"Excellent",164,"Very happy",168,"Junior high school",300
+"805","North",34,"Elementary school",700,"Excellent",155,"Somewhat happy",175,"Elementary school",900
+"806","North",43,"Never attended school",200,"Excellent",167,"Somewhat happy",172,"Junior high school",2000
+"807","North",27,"Junior high school",300,"Excellent",163,"Very happy",173,"Junior high school",1000
+"808","North",32,"Junior high school",600,"Good",159,"Very happy",174,"Junior high school",2000
+"809","North",37,"Elementary school",400,"Excellent",165,"Very happy",168,"Elementary school",1000
+"810","Inlands",36,"Junior high school",200,"Fair",155,"Somewhat happy",174,"Elementary school",200
+"811","Inlands",35,"Elementary school",500,"Fair",163,"Somewhat happy",175,"Junior high school",500
+"812","Inlands",27,"Junior high school",200,"Good",160,"Somewhat happy",172,"Junior high school",200
+"813","Inlands",34,"Junior high school",400,"Good",160,"Somewhat happy",167,"Junior high school",400
+"814","Inlands",42,"Never attended school",200,"Not good",155,"Not too happy",165,"Senior high school",200
+"815","Inlands",37,"Elementary school",600,"Excellent",155,"Very happy",172,"Elementary school",600
+"816","Inlands",33,"Elementary school",0,"Fair",158,"Somewhat happy",175,"Junior high school",1000
+"817","Inlands",34,"Elementary school",300,"Excellent",162,"Not too happy",170,"Junior high school",300
+"818","Inlands",35,"Elementary school",300,"Excellent",158,"Very happy",170,"Elementary school",600
+"819","Inlands",31,"Elementary school",300,"Fair",160,"Not too happy",170,"Elementary school",300
+"820","Inlands",35,"Junior high school",200,"Excellent",159,"Very happy",178,"Junior high school",600
+"821","Inlands",45,"Never attended school",2000,"Fair",165,"Somewhat happy",177,"Junior high school",2000
+"822","Inlands",28,"Junior high school",500,"Excellent",155,"Somewhat happy",158,"Elementary school",500
+"823","Inlands",43,"Never attended school",500,"Good",152,"Somewhat happy",170,"Never attended school",500
+"824","Inlands",47,"Never attended school",400,"Good",156,"Somewhat happy",178,"Elementary school",400
+"825","Inlands",50,"Elementary school",300,"Excellent",156,"Somewhat happy",172,"Junior high school",300
+"826","Inlands",37,"Junior high school",600,"Excellent",168,"Very happy",170,"Senior high school",600
+"827","Inlands",43,"Elementary school",600,"Good",157,"Somewhat happy",176,"Junior high school",600
+"828","Inlands",57,"Never attended school",300,"Excellent",158,"Very happy",168,"Never attended school",100
+"829","Inlands",37,"Elementary school",500,"Excellent",168,"Very happy",172,"Elementary school",500
+"830","Inlands",31,"Elementary school",400,"Excellent",158,"Very happy",182,"Elementary school",400
+"831","Inlands",35,"Junior high school",400,"Excellent",165,"Very happy",172,"Junior high school",700
+"832","Inlands",33,"Junior high school",400,"Excellent",167,"Somewhat happy",180,"Junior high school",400
+"833","Inlands",32,"Junior high school",200,"Fair",158,"Somewhat happy",172,"Junior high school",600
+"834","Inlands",24,"Elementary school",200,"Excellent",167,"Very happy",180,"Junior high school",200
+"835","Inlands",33,"Junior high school",500,"Excellent",165,"Very happy",175,"Junior high school",500
+"836","Inlands",38,"Elementary school",200,"Good",150,"Somewhat happy",160,"Junior high school",700
+"837","Inlands",35,"Junior high school",800,"Excellent",163,"Somewhat happy",173,"Junior high school",800
+"838","Inlands",34,"Junior high school",600,"Excellent",162,"Somewhat happy",178,"Elementary school",600
+"839","Inlands",30,"Elementary school",200,"Not good",165,"Somewhat happy",176,"Elementary school",900
+"840","Inlands",49,"Never attended school",200,"Good",160,"Somewhat happy",163,"Senior high school",200
+"841","Central West",25,"Junior high school",400,"Excellent",160,"Somewhat happy",180,"Senior high school",400
+"842","Central West",37,"Junior high school",40,"Good",165,"Somewhat happy",172,"Junior high school",40
+"843","Central West",32,"Junior high school",100,"Good",158,"Somewhat happy",165,"Junior high school",800
+"844","Central West",44,"Junior high school",2000,"Not good",162,"Not too happy",170,"Senior high school",500
+"845","Central West",30,"Junior high school",400,"Good",160,"Somewhat happy",172,"Junior high school",400
+"846","Central West",48,"Never attended school",300,"Fair",158,"Somewhat happy",170,"Elementary school",300
+"847","Central West",36,"Junior high school",500,"Good",157,"Somewhat happy",176,"Senior high school",500
+"848","Central West",28,"Elementary school",500,"Good",167,"Somewhat happy",172,"Elementary school",500
+"849","Central West",24,"Junior high school",200,"Good",165,"Somewhat happy",185,"Senior high school",200
+"850","Central West",37,"Junior high school",400,"Good",160,"Somewhat happy",172,"Elementary school",400
+"851","Central West",31,"Junior high school",200,"Good",155,"Somewhat happy",175,"Junior high school",200
+"852","Central West",36,"Junior high school",300,"Excellent",160,"Somewhat happy",175,"Elementary school",300
+"853","Central West",37,"Junior high school",400,"Excellent",169,"Somewhat happy",175,"Junior high school",400
+"854","Central West",52,"Elementary school",60,"Fair",159,"Somewhat happy",180,"Junior high school",60
+"855","Central West",30,"Senior high school",200,"Excellent",162,"Somewhat happy",170,"Junior high school",1000
+"856","Central West",38,"Junior high school",300,"Fair",160,"Somewhat happy",180,"Senior high school",300
+"857","Central West",26,"Junior high school",200,"Excellent",158,"Not too happy",175,"Junior high school",1000
+"858","Central West",36,"Junior high school",400,"Fair",163,"Very happy",170,"Junior high school",400
+"859","Central West",41,"Never attended school",400,"Not good",156,"Not too happy",180,"Junior high school",500
+"860","Central West",31,"Junior high school",300,"Good",169,"Not too happy",180,"Junior high school",300
+"861","Central West",34,"Elementary school",500,"Not good",160,"Somewhat happy",180,"Junior high school",500
+"862","Central West",35,"Junior high school",500,"Good",162,"Somewhat happy",175,"Junior high school",500
+"863","Central West",26,"Elementary school",300,"Good",168,"Somewhat happy",170,"Junior high school",300
+"864","Central West",28,"Elementary school",300,"Good",170,"Somewhat happy",174,"Junior high school",300
+"865","Central West",36,"Junior high school",600,"Good",166,"Somewhat happy",172,"Junior high school",600
+"866","Central West",44,"Never attended school",400,"Good",164,"Somewhat happy",172,"Junior high school",400
+"867","Central West",44,"Senior high school",0,"Excellent",159,"Very happy",172,"Junior high school",300
+"868","Central West",35,"Junior high school",200,"Excellent",157,"Somewhat happy",170,"Junior high school",200
+"869","Central West",42,"Junior high school",300,"Excellent",168,"Very happy",171,"Senior high school",300
+"870","Central West",41,"Never attended school",500,"Excellent",164,"Very happy",166,"Senior high school",500
+"871","Central West",42,"Never attended school",300,"Fair",165,"Somewhat happy",168,"Elementary school",300
+"872","Northeast",56,"Senior high school",300,"Poor",163,"Somewhat happy",169,"Senior high school",0
+"873","Northeast",39,"Senior high school",700,"Good",160,"Somewhat happy",168,"University",900
+"874","Northeast",44,"Junior high school",0,"Fair",160,"Somewhat happy",172,"Senior high school",2000
+"875","Northeast",46,"Junior high school",100,"Fair",160,"Somewhat happy",170,"Junior college",100
+"876","Northeast",44,"Junior high school",400,"Fair",157,"Not too happy",175,"Junior high school",500
+"877","Northeast",45,"Junior high school",300,"Good",166,"Somewhat happy",180,"Senior high school",800
+"878","Northeast",32,"Junior college",600,"Good",156,"Somewhat happy",180,"Senior high school",600
+"879","Northeast",37,"Junior high school",0,"Not good",159,"Somewhat happy",172,"Senior high school",600
+"880","Northeast",52,"Junior high school",300,"Good",160,"Very happy",162,"Junior college",800
+"881","Northeast",44,"Junior high school",200,"Fair",154,"Not too happy",175,"Junior high school",200
+"882","Northeast",26,"Junior high school",0,"Excellent",170,"Not too happy",174,"University",600
+"883","Northeast",38,"Junior high school",0,"Good",164,"Not too happy",180,"Junior high school",0
+"884","Northeast",41,"Junior high school",100,"Excellent",158,"Somewhat happy",170,"Junior high school",500
+"885","Northeast",37,"Junior high school",300,"Fair",160,"Somewhat happy",168,"Senior high school",400
+"886","Northeast",36,"Junior high school",500,"Good",167,"Somewhat happy",167,"Junior high school",700
+"887","Northeast",39,"Junior college",500,"Fair",159,"Very happy",174,"Junior college",600
+"888","Northeast",40,"Senior high school",0,"Good",161,"Somewhat happy",176,"Senior high school",3000
+"889","Northeast",62,"Senior high school",400,"Good",162,"Somewhat happy",173,"Senior high school",900
+"890","Northeast",61,"Never attended school",200,"Good",156,"Somewhat happy",169,"Junior high school",500
+"891","Northeast",62,"Never attended school",100,"Good",162,"Very happy",174,"Junior high school",600
+"892","Northeast",33,"Junior college",400,"Good",167,"Somewhat happy",172,"Junior college",1000
+"893","Northeast",30,"Senior high school",400,"Excellent",160,"Somewhat happy",172,"Junior high school",1000
+"894","Northeast",34,"Junior high school",600,"Fair",159,"Not too happy",170,"Senior high school",600
+"895","Northeast",37,"Junior high school",500,"Good",158,"Somewhat happy",171,"Junior high school",600
+"896","Northeast",38,"Junior high school",90,"Not good",153,"Not too happy",172,"Elementary school",400
+"897","Northeast",30,"Junior high school",500,"Good",155,"Somewhat happy",170,"Junior high school",500
+"898","Northeast",57,"Junior high school",400,"Not good",154,"Somewhat happy",178,"Junior high school",300
+"899","Northeast",37,"Junior high school",0,"Good",162,"Somewhat happy",173,"Senior high school",1000
+"900","Northeast",47,"Senior high school",500,"Good",154,"Somewhat happy",175,"Senior high school",500
+"901","Northeast",44,"Junior high school",300,"Good",158,"Somewhat happy",173,"Elementary school",400
+"902","Northeast",20,"Junior high school",400,"Good",162,"Very happy",176,"Junior high school",400
+"903","Northeast",54,"Elementary school",0,"Not good",155,"Somewhat happy",170,"Elementary school",500
+"904","Northeast",46,"Junior high school",400,"Excellent",162,"Somewhat happy",178,"Junior high school",500
+"905","Northeast",60,"Junior high school",400,"Not good",158,"Very happy",171,"Junior high school",600
+"906","Northeast",45,"Junior college",400,"Not good",155,"Somewhat happy",171,"Senior high school",600
+"907","Northeast",53,"Junior high school",300,"Good",162,"Somewhat happy",180,"University",20
+"908","Northeast",27,"Senior high school",400,"Good",160,"Somewhat happy",175,"Senior high school",800
+"909","Northeast",44,"Junior high school",100,"Fair",156,"Somewhat happy",172,"Senior high school",0
+"910","Northeast",44,"Senior high school",300,"Fair",159,"Somewhat happy",170,"Senior high school",500
+"911","Northeast",35,"Senior high school",200,"Not good",162,"Not too happy",173,"Senior high school",500
+"912","Northeast",37,"Junior college",400,"Excellent",160,"Somewhat happy",170,"Junior college",400
+"913","Northeast",41,"Junior high school",200,"Good",162,"Somewhat happy",190,"Junior college",1000
+"914","Northeast",46,"Junior college",0,"Good",158,"Somewhat happy",172,"Junior high school",400
+"915","Northeast",25,"Elementary school",700,"Good",160,"Very happy",170,"Senior high school",1000
+"916","Northeast",32,"Senior high school",400,"Fair",159,"Very happy",181,"Senior high school",600
+"917","Northeast",52,"Junior high school",100,"Fair",160,"Somewhat happy",161,"Senior high school",400
+"918","Northeast",37,"Junior high school",600,"Good",160,"Somewhat happy",175,"Senior high school",400
+"919","Northeast",27,"Junior college",2000,"Fair",164,"Somewhat happy",170,"Senior high school",2000
+"920","Northeast",41,"Junior high school",500,"Fair",160,"Somewhat happy",164,"Junior high school",300
+"921","Northeast",39,"Senior high school",0,"Fair",158,"Somewhat happy",175,"Senior high school",1000
+"922","Northeast",43,"Junior college",10000,"Good",163,"Somewhat happy",178,"Junior college",900
+"923","Northeast",28,"Junior high school",600,"Good",163,"Somewhat happy",170,"Junior high school",1000
+"924","Northeast",40,"Elementary school",400,"Good",158,"Somewhat happy",175,"Junior high school",400
+"925","Northeast",37,"Senior high school",400,"Good",159,"Somewhat happy",176,"Junior high school",1000
+"926","Northeast",50,"Junior high school",0,"Good",165,"Somewhat happy",170,"University",1000
+"927","Northeast",35,"Senior high school",500,"Excellent",160,"Somewhat happy",175,"Senior high school",300
+"928","Northeast",56,"Elementary school",300,"Not good",160,"Somewhat happy",163,"Never attended school",400
+"929","Northeast",62,"Junior high school",700,"Fair",155,"Somewhat happy",177,"Elementary school",800
+"930","Northeast",32,"Junior high school",900,"Fair",168,"Somewhat happy",180,"Senior high school",1000
+"931","Northeast",34,"Junior high school",400,"Good",163,"Somewhat happy",172,"Junior high school",700
+"932","Northeast",48,"Junior high school",500,"Fair",157,"Somewhat happy",170,"Senior high school",700
+"933","Northeast",42,"Senior high school",500,"Good",168,"Somewhat happy",184,"Junior college",1000
+"934","Northeast",40,"Senior high school",100,"Fair",162,"Somewhat happy",171,"Senior high school",800
+"935","Northeast",56,"Senior high school",700,"Fair",147,"Somewhat happy",167,"Senior high school",800
+"936","Northeast",55,"Senior high school",900,"Fair",156,"Somewhat happy",178,"Senior high school",1000
+"937","Northeast",26,"Junior high school",500,"Not good",162,"Somewhat happy",168,"Junior high school",800
+"938","Northeast",63,"Never attended school",20,"Fair",158,"Somewhat happy",170,"Junior college",1000
+"939","Northeast",53,"Never attended school",100,"Good",160,"Somewhat happy",171,"Senior high school",600
+"940","Northeast",51,"Junior high school",600,"Good",153,"Not too happy",175,"Senior high school",600
+"941","Northeast",30,"Junior college",700,"Good",163,"Somewhat happy",173,"Senior high school",800
+"942","Northeast",28,"Junior college",500,"Good",160,"Not too happy",170,"Junior college",500
+"943","Northeast",35,"University",600,"Fair",158,"Not too happy",170,"Senior high school",0
+"944","Northeast",43,"Senior high school",700,"Excellent",154,"Very happy",163,"Senior high school",0
+"945","Northeast",28,"Junior high school",400,"Excellent",153,"Very happy",170,"Senior high school",400
+"946","Northeast",31,"Junior high school",3000,"Good",160,"Not too happy",170,"Junior high school",10000
+"947","Northeast",37,"Junior high school",0,"Good",160,"Somewhat happy",170,"Junior high school",2000
+"948","Northeast",39,"Senior high school",300,"Good",164,"Somewhat happy",176,"Senior high school",600
+"949","Northeast",55,"Junior college",2000,"Good",160,"Very happy",170,"Junior college",1000
+"950","Northeast",29,"Junior high school",600,"Excellent",157,"Somewhat happy",173,"Junior high school",800
+"951","Northeast",46,"Junior high school",400,"Fair",157,"Somewhat happy",171,"Senior high school",800
+"952","Northeast",42,"Senior high school",0,"Not good",158,"Not too happy",168,"Senior high school",700
+"953","Northeast",33,"Junior high school",800,"Good",163,"Somewhat happy",160,"Junior high school",800
+"954","Northeast",34,"Junior high school",300,"Good",167,"Somewhat happy",185,"Senior high school",300
+"955","Northeast",32,"Junior high school",300,"Excellent",162,"Somewhat happy",173,"Elementary school",400
+"956","Northeast",40,"Senior high school",100,"Excellent",160,"Somewhat happy",176,"Junior high school",500
+"957","Northeast",47,"Never attended school",200,"Fair",165,"Somewhat happy",170,"Senior high school",0
+"958","Northeast",40,"Junior high school",200,"Excellent",155,"Not too happy",172,"Junior high school",500
+"959","Northeast",36,"Junior high school",40,"Not good",167,"Somewhat happy",180,"Senior high school",1000
+"960","Northeast",42,"Elementary school",100,"Fair",158,"Somewhat happy",173,"Elementary school",600
+"961","Northeast",32,"Junior high school",50,"Excellent",158,"Somewhat happy",178,"Senior high school",600
+"962","Northeast",41,"Junior high school",100,"Good",165,"Somewhat happy",174,"Junior high school",2000
+"963","Northeast",47,"Elementary school",200,"Excellent",155,"Very happy",173,"Elementary school",200
+"964","Northeast",33,"Elementary school",300,"Fair",158,"Somewhat happy",170,"Junior high school",700
+"965","Northeast",44,"Senior high school",300,"Good",165,"Somewhat happy",175,"Junior high school",500
+"966","Northeast",31,"Elementary school",200,"Good",162,"Somewhat happy",176,"Junior high school",200
+"967","Northeast",43,"Elementary school",400,"Good",160,"Somewhat happy",170,"Elementary school",300
+"968","Northeast",29,"Elementary school",200,"Good",162,"Somewhat happy",164,"Junior high school",300
+"969","Northeast",43,"Senior high school",200,"Good",163,"Somewhat happy",172,"Senior high school",200
+"970","Northeast",40,"Elementary school",600,"Good",156,"Somewhat happy",178,"Elementary school",600
+"971","Northeast",44,"Elementary school",300,"Good",156,"Somewhat happy",170,"Junior high school",300
+"972","Northeast",37,"Elementary school",700,"Good",164,"Somewhat happy",176,"Junior high school",700
+"973","Northeast",31,"Elementary school",400,"Excellent",159,"Somewhat happy",169,"Junior high school",400
+"974","Northeast",44,"Elementary school",20,"Not good",158,"Somewhat happy",168,"Elementary school",20
+"975","Northeast",36,"Senior high school",300,"Good",166,"Somewhat happy",173,"Elementary school",500
+"976","Northeast",38,"Senior high school",300,"Excellent",163,"Very happy",172,"Elementary school",300
+"977","Northeast",50,"Elementary school",60,"Fair",159,"Somewhat happy",169,"Junior high school",600
+"978","Northeast",43,"Elementary school",80,"Not good",162,"Somewhat happy",164,"Junior high school",80
+"979","Northeast",36,"Junior high school",600,"Fair",159,"Somewhat happy",162,"Junior high school",600
+"980","Northeast",36,"Junior high school",800,"Excellent",160,"Somewhat happy",172,"Junior high school",800
+"981","Northeast",34,"Junior high school",800,"Good",163,"Very happy",180,"Senior high school",800
+"982","Northeast",50,"Elementary school",300,"Not good",155,"Somewhat happy",167,"Junior high school",300
+"983","Central West",34,"University",900,"Excellent",158,"Very happy",182,"University",10000
+"984","Central West",34,"Senior high school",400,"Good",160,"Somewhat happy",181,"University",700
+"985","Central West",23,"Junior high school",200,"Excellent",163,"Somewhat happy",173,"Junior high school",500
+"986","Central West",42,"Senior high school",500,"Excellent",155,"Very happy",174,"Senior high school",300
+"987","Central West",50,"Junior college",700,"Not good",159,"Somewhat happy",170,"Junior college",1000
+"988","Central West",23,"Junior high school",400,"Excellent",162,"Somewhat happy",172,"Senior high school",4000
+"989","Central West",49,"Junior college",900,"Good",158,"Very happy",165,"Senior high school",500
+"990","Central West",44,"Junior college",200,"Good",155,"Somewhat happy",172,"Junior college",900
+"991","Central West",31,"Senior high school",200,"Fair",163,"Somewhat happy",172,"Senior high school",500
+"992","Central West",24,"Junior college",0,"Excellent",165,"Somewhat happy",180,"Junior college",600
+"993","Central West",30,"Junior college",300,"Good",164,"Somewhat happy",170,"University",700
+"994","Central West",41,"Senior high school",300,"Fair",158,"Somewhat happy",170,"Junior college",600
+"995","Central West",49,"Senior high school",400,"Good",167,"Somewhat happy",170,"University",900
+"996","Central West",35,"Junior high school",6000,"Good",162,"Very happy",170,"Elementary school",6000
+"997","Central West",30,"Junior college",500,"Fair",170,"Somewhat happy",174,"Junior college",700
+"998","Central West",42,"Junior college",700,"Good",154,"Somewhat happy",165,"Junior college",700
+"999","Central West",44,"Junior high school",700,"Fair",158,"Somewhat happy",174,"Senior high school",600
+"1000","Central West",40,"Senior high school",700,"Fair",156,"Somewhat happy",178,"University",800
+"1001","Central West",33,"Senior high school",700,"Excellent",160,"Somewhat happy",174,"Junior high school",900
+"1002","Central West",25,"Senior high school",700,"Excellent",168,"Somewhat happy",172,"Senior high school",700
+"1003","Central West",42,"Senior high school",700,"Excellent",168,"Very happy",170,"Junior college",800
+"1004","Central West",29,"Senior high school",0,"Good",160,"Somewhat happy",180,"Junior high school",2000
+"1005","Central West",26,"Senior high school",700,"Good",161,"Very happy",172,"Junior college",500
+"1006","Central West",23,"Junior high school",0,"Excellent",159,"Somewhat happy",171,"Senior high school",800
+"1007","Central West",43,"Senior high school",500,"Not good",157,"Very unhappy",172,"Elementary school",3000
+"1008","Central West",31,"Senior high school",300,"Good",151,"Somewhat happy",170,"Elementary school",1000
+"1009","Central West",46,"Elementary school",200,"Good",157,"Somewhat happy",160,"Never attended school",700
+"1010","Central West",25,"Junior high school",200,"Good",160,"Very happy",167,"Junior high school",200
+"1011","Central West",44,"Never attended school",200,"Not good",160,"Somewhat happy",175,"Junior high school",200
+"1012","Central West",25,"Junior high school",300,"Good",158,"Somewhat happy",173,"Junior high school",600
+"1013","Central West",49,"Elementary school",500,"Fair",154,"Somewhat happy",170,"Elementary school",500
+"1014","Central West",26,"Junior high school",400,"Good",160,"Somewhat happy",174,"Junior high school",400
+"1015","Central West",26,"Senior high school",300,"Good",153,"Somewhat happy",180,"Senior high school",300
+"1016","Central West",48,"Elementary school",100,"Good",160,"Somewhat happy",170,"Elementary school",100
+"1017","Central West",27,"Junior high school",200,"Excellent",158,"Somewhat happy",168,"Junior high school",200
+"1018","Central West",48,"Elementary school",200,"Good",164,"Somewhat happy",172,"Never attended school",200
+"1019","Central West",57,"Senior high school",80,"Not good",158,"Not too happy",163,"Elementary school",80
+"1020","Central West",29,"Junior high school",200,"Excellent",156,"Not too happy",170,"Junior high school",500
+"1021","Central West",47,"Never attended school",200,"Excellent",160,"Somewhat happy",180,"Elementary school",200
+"1022","Central West",37,"Junior high school",100,"Excellent",165,"Somewhat happy",172,"Junior high school",400
+"1023","Central West",38,"Junior high school",300,"Good",158,"Somewhat happy",180,"Junior high school",400
+"1024","Central West",29,"Senior high school",500,"Excellent",165,"Somewhat happy",170,"Junior high school",600
+"1025","Central West",24,"Junior high school",200,"Not good",169,"Not too happy",178,"Junior high school",600
+"1026","Central West",28,"Senior high school",500,"Excellent",160,"Somewhat happy",173,"Junior high school",500
+"1027","Central West",30,"Junior high school",500,"Good",160,"Somewhat happy",174,"Junior high school",500
+"1028","Central West",27,"Senior high school",400,"Good",160,"Somewhat happy",175,"Junior high school",600
+"1029","Central West",26,"Junior high school",100,"Fair",164,"Somewhat happy",168,"Senior high school",600
+"1030","Central West",39,"Senior high school",100,"Excellent",165,"Somewhat happy",168,"Senior high school",1000
+"1031","Central West",50,"Never attended school",0,"Fair",160,"Somewhat happy",182,"Elementary school",400
+"1032","Central West",28,"Junior high school",500,"Good",161,"Not too happy",160,"Junior high school",400
+"1033","Central West",35,"Senior high school",1000,"Excellent",172,"Very happy",180,"Junior high school",2000
+"1034","Central West",51,"Elementary school",200,"Fair",163,"Not too happy",178,"Elementary school",200
+"1035","Coastal East",35,"Junior high school",500,"Good",154,"Somewhat happy",174,"Junior college",900
+"1036","Coastal East",58,"University",1000,"Excellent",155,"Very happy",165,"University",1000
+"1037","Coastal East",30,"Junior high school",0,"Excellent",160,"Very happy",170,"Senior high school",800
+"1038","Coastal East",32,"Junior college",2000,"Good",163,"Somewhat happy",168,"Junior college",3000
+"1039","Coastal East",37,"Junior college",800,"Fair",155,"Somewhat happy",170,"Junior college",3000
+"1040","Coastal East",30,"Junior high school",0,"Good",159,"Somewhat happy",169,"Senior high school",1000
+"1041","Coastal East",35,"Elementary school",400,"Excellent",156,"Very happy",174,"Elementary school",400
+"1042","Coastal East",61,"Senior high school",500,"Good",157,"Somewhat happy",170,"University",2000
+"1043","Coastal East",32,"Senior high school",1000,"Fair",158,"Very happy",172,"Senior high school",1000
+"1044","Coastal East",46,"Senior high school",700,"Fair",169,"Somewhat happy",178,"Senior high school",1000
+"1045","Coastal East",25,"Senior high school",600,"Good",164,"Somewhat happy",172,"Senior high school",1000
+"1046","Coastal East",23,"Elementary school",600,"Excellent",159,"Very happy",170,"Senior high school",3000
+"1047","Coastal East",54,"Senior high school",900,"Good",156,"Somewhat happy",168,"University",4000
+"1048","Coastal East",55,"Elementary school",200,"Good",161,"Not too happy",165,"Junior high school",800
+"1049","Coastal East",31,"Junior high school",1000,"Fair",160,"Somewhat happy",173,"Junior college",3000
+"1050","Coastal East",45,"Senior high school",1000,"Good",163,"Somewhat happy",169,"Senior high school",1000
+"1051","Coastal East",47,"Senior high school",900,"Good",167,"Somewhat happy",170,"Senior high school",900
+"1052","Coastal East",31,"Elementary school",300,"Good",158,"Somewhat happy",160,"Junior high school",300
+"1053","Coastal East",46,"Never attended school",200,"Good",158,"Somewhat happy",176,"Junior high school",200
+"1054","Coastal East",52,"Senior high school",500,"Not good",155,"Not too happy",170,"University",2000
+"1055","Coastal East",49,"Junior high school",600,"Excellent",158,"Very happy",172,"Junior high school",2000
+"1056","Coastal East",43,"Senior high school",500,"Good",160,"Somewhat happy",170,"Junior high school",1000
+"1057","Coastal East",29,"University",700,"Fair",161,"Somewhat happy",172,"Junior college",900
+"1058","Coastal East",40,"Senior high school",600,"Good",161,"Somewhat happy",168,"Senior high school",800
+"1059","Coastal East",40,"Elementary school",500,"Good",156,"Somewhat happy",167,"Senior high school",800
+"1060","Coastal East",37,"Never attended school",0,"Excellent",164,"Not too happy",171,"Senior high school",1000
+"1061","Coastal East",42,"Senior high school",1000,"Excellent",169,"Somewhat happy",172,"Senior high school",1000
+"1062","Coastal East",39,"Junior high school",500,"Excellent",164,"Somewhat happy",178,"Elementary school",600
+"1063","Coastal East",52,"Senior high school",1000,"Fair",158,"Somewhat happy",173,"Junior college",1000
+"1064","Coastal East",59,"Elementary school",400,"Not good",153,"Somewhat happy",173,"Senior high school",2000
+"1065","Coastal East",50,"Elementary school",300,"Good",160,"Somewhat happy",180,"Junior college",400
+"1066","Coastal East",38,"Junior high school",500,"Fair",163,"Somewhat happy",172,"Junior high school",1000
+"1067","Coastal East",30,"Elementary school",400,"Good",155,"Somewhat happy",165,"Junior high school",400
+"1068","Coastal East",44,"Elementary school",400,"Good",148,"Somewhat happy",162,"Elementary school",400
+"1069","Coastal East",45,"Junior high school",1000,"Good",158,"Somewhat happy",170,"Junior high school",0
+"1070","Coastal East",54,"Elementary school",700,"Good",156,"Somewhat happy",168,"Junior high school",600
+"1071","Coastal East",35,"Senior high school",500,"Fair",163,"Not too happy",174,"Junior high school",1000
+"1072","Coastal East",42,"Junior college",1000,"Good",166,"Very happy",180,"Junior college",2000
+"1073","Coastal East",44,"Junior high school",200,"Good",152,"Very happy",171,"Junior high school",2000
+"1074","Coastal East",56,"Junior high school",700,"Fair",155,"Somewhat happy",168,"Junior high school",700
+"1075","Coastal East",32,"Junior high school",0,"Excellent",158,"Somewhat happy",168,"Junior high school",500
+"1076","Coastal East",36,"Junior college",600,"Good",164,"Somewhat happy",178,"Senior high school",500
+"1077","Coastal East",46,"Elementary school",1000,"Good",156,"Not too happy",168,"Junior high school",500
+"1078","Coastal East",28,"Junior high school",6000,"Excellent",157,"Not too happy",168,"University",10000
+"1079","Coastal East",51,"Junior high school",600,"Excellent",161,"Very happy",170,"Elementary school",1000
+"1080","Coastal East",48,"Junior high school",600,"Good",158,"Somewhat happy",165,"Senior high school",1000
+"1081","Coastal East",58,"Junior high school",600,"Good",160,"Somewhat happy",172,"Elementary school",900
+"1082","Coastal East",48,"Junior high school",600,"Good",148,"Somewhat happy",168,"Junior high school",1000
+"1083","Coastal East",58,"Junior high school",700,"Good",162,"Somewhat happy",168,"Senior high school",1000
+"1084","Coastal East",35,"Junior high school",2000,"Good",157,"Somewhat happy",176,"Senior high school",500
+"1085","Coastal East",21,"Senior high school",2000,"Good",160,"Somewhat happy",177,"Senior high school",1000
+"1086","Coastal East",48,"Never attended school",200,"Fair",156,"Somewhat happy",164,"Elementary school",200
+"1087","Coastal East",54,"Never attended school",600,"Not good",155,"Somewhat happy",170,"Elementary school",100
+"1088","Coastal East",40,"Senior high school",500,"Excellent",160,"Very happy",180,"Senior high school",1000
+"1089","Coastal East",30,"Elementary school",700,"Fair",152,"Somewhat happy",166,"Senior high school",600
+"1090","Coastal East",46,"Junior college",1000,"Good",156,"Somewhat happy",175,"Junior high school",1000
+"1091","Coastal East",29,"Senior high school",1000,"Good",163,"Very happy",181,"Junior college",3000
+"1092","Coastal East",40,"Junior high school",300,"Good",160,"Somewhat happy",165,"Junior high school",300
+"1093","Coastal East",47,"Junior high school",700,"Not good",156,"Somewhat happy",175,"Junior high school",800
+"1094","Coastal East",45,"Junior high school",200,"Fair",156,"Somewhat happy",172,"Junior high school",400
+"1095","Inlands",32,"Elementary school",400,"Good",158,"Very happy",170,"Junior high school",400
+"1096","Inlands",42,"Never attended school",100,"Good",155,"Very happy",170,"Elementary school",100
+"1097","Inlands",48,"Never attended school",100,"Fair",160,"Somewhat happy",165,"Senior high school",100
+"1098","Inlands",31,"Junior high school",100,"Good",161,"Somewhat happy",170,"Elementary school",100
+"1099","Inlands",37,"Junior high school",400,"Good",160,"Somewhat happy",166,"Elementary school",400
+"1100","Inlands",56,"Never attended school",100,"Good",155,"Not too happy",165,NA,100
+"1101","Inlands",34,"Elementary school",500,"Not good",166,"Very happy",180,"Junior high school",500
+"1102","Inlands",31,"Junior high school",400,"Excellent",160,"Somewhat happy",168,"Junior high school",400
+"1103","Inlands",35,"Junior high school",300,"Fair",158,"Somewhat happy",165,"Junior high school",300
+"1104","Inlands",37,"Elementary school",800,"Good",160,"Somewhat happy",172,"Junior high school",800
+"1105","Inlands",44,"Never attended school",80,"Fair",155,"Somewhat happy",170,"Elementary school",80
+"1106","Inlands",38,"Elementary school",100,"Fair",158,"Not too happy",170,"Elementary school",100
+"1107","Inlands",37,"Elementary school",500,"Excellent",161,"Somewhat happy",173,"Junior high school",500
+"1108","Inlands",30,"Junior high school",0,"Fair",158,"Somewhat happy",170,"Junior high school",500
+"1109","Inlands",44,"Never attended school",100,"Fair",155,"Somewhat happy",160,"Elementary school",100
+"1110","Inlands",35,"Junior high school",500,"Good",155,"Somewhat happy",165,"Junior high school",500
+"1111","Inlands",61,"Never attended school",100,"Excellent",150,"Very happy",176,"Never attended school",600
+"1112","Inlands",32,"Elementary school",300,"Excellent",145,"Somewhat happy",160,"Elementary school",300
+"1113","Inlands",35,"Elementary school",300,"Good",160,"Somewhat happy",162,"Junior high school",300
+"1114","Inlands",55,"Elementary school",200,"Good",157,"Somewhat happy",170,"Elementary school",400
+"1115","Inlands",36,"Elementary school",200,"Not good",171,"Very happy",175,"Never attended school",200
+"1116","Inlands",36,"Elementary school",400,"Good",154,"Somewhat happy",160,"Never attended school",500
+"1117","Inlands",38,"Junior high school",200,"Good",162,"Somewhat happy",170,"Elementary school",200
+"1118","Inlands",45,"Elementary school",200,"Good",158,"Somewhat happy",162,"Never attended school",200
+"1119","Inlands",36,"Elementary school",600,"Good",156,"Somewhat happy",165,"Elementary school",800
+"1120","Coastal East",34,"Junior college",700,"Fair",168,"Somewhat happy",173,"University",600
+"1121","Coastal East",40,"Senior high school",600,"Good",168,"Very happy",175,"Junior high school",700
+"1122","Coastal East",24,"Senior high school",800,"Good",159,"Somewhat happy",178,"Senior high school",4000
+"1123","Coastal East",27,"Junior college",1000,"Fair",167,"Somewhat happy",178,"Junior college",1000
+"1124","Coastal East",53,"Junior high school",600,"Good",155,"Somewhat happy",166,"Senior high school",800
+"1125","Coastal East",37,"Senior high school",700,"Fair",166,"Somewhat happy",183,"Senior high school",1000
+"1126","Coastal East",36,"Junior college",800,"Excellent",165,"Very happy",176,"Junior college",800
+"1127","Coastal East",42,"Junior high school",700,"Good",153,"Somewhat happy",175,"Junior high school",800
+"1128","Coastal East",32,"Junior high school",300,"Excellent",156,"Somewhat happy",168,"Senior high school",300
+"1129","Coastal East",55,"Junior high school",700,"Fair",165,"Somewhat happy",172,"Senior high school",1000
+"1130","Coastal East",31,"Junior high school",900,"Fair",162,"Somewhat happy",174,"Junior high school",1000
+"1131","Coastal East",41,"Senior high school",800,"Fair",152,"Somewhat happy",170,"Junior high school",1000
+"1132","Coastal East",38,"Senior high school",500,"Good",167,"Somewhat happy",180,"Senior high school",600
+"1133","Coastal East",32,"Junior high school",0,"Fair",150,"Somewhat happy",170,"Junior high school",1000
+"1134","Coastal East",50,"Junior high school",600,"Not good",142,"Somewhat happy",158,"Junior college",600
+"1135","Coastal East",40,"Senior high school",700,"Excellent",154,"Very happy",165,"Senior high school",700
+"1136","Coastal East",26,"Senior high school",600,"Fair",153,"Somewhat happy",175,"Senior high school",1000
+"1137","Coastal East",41,"Senior high school",800,"Fair",157,"Somewhat happy",178,"Junior college",2000
+"1138","Coastal East",44,"Junior high school",300,"Good",155,"Very happy",176,"Junior high school",1000
+"1139","Coastal East",34,"Junior high school",600,"Fair",161,"Somewhat happy",174,"Senior high school",400
+"1140","Coastal East",42,"Senior high school",2000,"Good",164,"Somewhat happy",178,"Junior high school",500
+"1141","Coastal East",38,"Junior high school",900,"Good",158,"Somewhat happy",170,"Senior high school",1000
+"1142","Coastal East",38,"Junior college",700,"Good",163,"Somewhat happy",175,"Junior college",2000
+"1143","Coastal East",37,"Senior high school",800,"Good",160,"Somewhat happy",169,"Senior high school",900
+"1144","Coastal East",32,"Junior high school",900,"Excellent",160,"Somewhat happy",172,"Senior high school",2000
+"1145","Coastal East",28,"Junior high school",500,"Fair",165,"Somewhat happy",175,"Junior high school",1000
+"1146","Coastal East",46,"Junior high school",300,"Fair",158,"Somewhat happy",168,"Senior high school",2000
+"1147","Coastal East",37,"Junior high school",400,"Fair",162,"Somewhat happy",168,"Senior high school",800
+"1148","Coastal East",40,"Senior high school",600,"Fair",164,"Somewhat happy",175,"Junior college",1000
+"1149","Coastal East",42,"Senior high school",1000,"Good",156,"Somewhat happy",175,"Senior high school",800
+"1150","Coastal East",38,"Senior high school",1000,"Good",162,"Somewhat happy",173,"Junior high school",2000
+"1151","Coastal East",38,"Junior high school",400,"Excellent",160,"Not too happy",175,"Senior high school",700
+"1152","Coastal East",37,"Junior high school",700,"Good",160,"Somewhat happy",178,"Junior high school",300
+"1153","Coastal East",57,"Senior high school",1000,"Good",154,"Very happy",173,"University",2000
+"1154","Coastal East",35,"Junior high school",300,"Excellent",165,"Somewhat happy",178,"Junior high school",800
+"1155","Coastal East",48,"Elementary school",800,"Good",158,"Somewhat happy",175,"Senior high school",1000
+"1156","Coastal East",41,"Senior high school",700,"Fair",160,"Somewhat happy",165,"Junior high school",600
+"1157","Coastal East",25,"Elementary school",500,"Excellent",162,"Somewhat happy",166,"Junior high school",1000
+"1158","Coastal East",24,"Junior college",1000,"Good",156,"Somewhat happy",170,"Junior college",2000
+"1159","Coastal East",50,"Junior high school",700,"Fair",166,"Not too happy",174,"Senior high school",300
+"1160","Coastal East",50,"Junior college",800,"Good",156,"Somewhat happy",178,"Junior college",600
+"1161","Coastal East",58,"Junior high school",500,"Not good",162,"Somewhat happy",173,"Senior high school",800
+"1162","Coastal East",25,"Junior high school",400,"Fair",150,"Somewhat happy",170,"Junior high school",2000
+"1163","Coastal East",62,"Junior high school",500,"Fair",160,"Somewhat happy",163,"Senior high school",800
+"1164","Coastal East",42,"Junior high school",600,"Good",155,"Somewhat happy",170,"Senior high school",1000
+"1165","Coastal East",42,"Junior college",1000,"Fair",166,"Somewhat happy",172,"Junior college",1000
+"1166","Coastal East",26,"Senior high school",500,"Good",162,"Somewhat happy",170,"Senior high school",700
+"1167","Coastal East",23,"Junior college",1000,"Good",158,"Somewhat happy",174,"Senior high school",3000
+"1168","Coastal East",29,"Junior high school",500,"Fair",158,"Somewhat happy",180,"Junior high school",600
+"1169","Coastal East",28,"Senior high school",5000,"Fair",168,"Somewhat happy",172,"Senior high school",5000
+"1170","Coastal East",38,"Junior college",1000,"Good",156,"Somewhat happy",165,"Junior college",1000
+"1171","Coastal East",28,"Junior high school",100,"Good",160,"Somewhat happy",180,"Senior high school",1000
+"1172","Coastal East",43,"Senior high school",800,"Good",160,"Somewhat happy",175,"Senior high school",700
+"1173","Coastal East",41,"Senior high school",500,"Good",160,"Somewhat happy",176,"Junior high school",800
+"1174","Coastal East",29,"Junior high school",2000,"Fair",166,"Somewhat happy",171,"Senior high school",10000
+"1175","Central West",33,"Junior college",700,"Fair",168,"Not too happy",172,"Junior college",700
+"1176","Central West",47,"Junior high school",500,"Good",161,"Not too happy",180,"Junior high school",0
+"1177","Central West",40,"Junior college",800,"Fair",164,"Not too happy",173,"Junior college",800
+"1178","Central West",48,"Junior college",1000,"Excellent",159,"Somewhat happy",180,"Senior high school",700
+"1179","Central West",33,"Elementary school",500,"Excellent",160,"Very happy",170,"Junior high school",500
+"1180","Central West",33,"Junior high school",400,"Good",156,"Somewhat happy",174,"Junior high school",400
+"1181","Central West",28,"Senior high school",300,"Fair",160,"Somewhat happy",177,"Junior high school",300
+"1182","Central West",32,"Junior high school",300,"Good",158,"Somewhat happy",168,"Junior college",800
+"1183","Central West",62,"Elementary school",0,"Fair",164,"Not too happy",168,"Senior high school",700
+"1184","Central West",52,"Junior high school",600,"Not good",160,"Not too happy",170,"University",900
+"1185","Central West",36,"Never attended school",400,"Excellent",160,"Somewhat happy",167,"Junior high school",600
+"1186","Central West",36,"Senior high school",500,"Excellent",162,"Somewhat happy",178,"Senior high school",600
+"1187","Central West",45,"Junior college",800,"Fair",155,"Somewhat happy",171,"University",900
+"1188","Central West",39,"Senior high school",700,"Fair",155,"Somewhat happy",170,"Junior college",800
+"1189","Central West",39,"Junior college",800,"Fair",164,"Somewhat happy",181,"Senior high school",800
+"1190","Central West",61,"Senior high school",600,"Fair",155,"Somewhat happy",174,"Junior college",600
+"1191","Central West",31,"Junior high school",400,"Good",153,"Somewhat happy",170,"Senior high school",500
+"1192","Central West",57,"University",700,"Poor",150,"Not too happy",166,"University",800
+"1193","Central West",26,"Junior college",800,"Good",160,"Very happy",178,"Junior college",800
+"1194","Central West",45,"Junior high school",200,"Not good",159,"Very unhappy",168,"Junior high school",700
+"1195","Central West",22,"Senior high school",0,"Fair",165,"Somewhat happy",174,"Senior high school",0
+"1196","Central West",38,"Junior high school",500,"Excellent",154,"Very happy",170,"Junior high school",500
+"1197","Central West",32,"Junior high school",400,"Excellent",160,"Very happy",165,"Junior high school",400
+"1198","Central West",42,"Senior high school",400,"Good",160,"Somewhat happy",170,"Elementary school",0
+"1199","Central West",54,"Senior high school",0,"Fair",156,"Somewhat happy",174,"Senior high school",0
+"1200","Central West",30,"Junior high school",700,"Excellent",160,"Very happy",172,"Junior high school",0
+"1201","Central West",22,"Senior high school",500,"Excellent",158,"Somewhat happy",175,"Senior high school",800
+"1202","Central West",39,"Junior high school",5000,"Excellent",160,"Somewhat happy",180,"Senior high school",1000
+"1203","Central West",32,"University",600,"Excellent",160,"Very happy",174,"Senior high school",1000
+"1204","Central West",39,"Senior high school",700,"Not good",154,"Somewhat happy",181,"University",1000
+"1205","Central West",42,"Senior high school",400,"Excellent",158,"Somewhat happy",170,"Senior high school",400
+"1206","Central West",37,"Senior high school",800,"Fair",165,"Somewhat happy",174,"Senior high school",500
+"1207","Central West",35,"Elementary school",600,"Fair",166,"Somewhat happy",170,"Junior high school",600
+"1208","Central West",28,"Senior high school",800,"Good",163,"Somewhat happy",175,"Senior high school",600
+"1209","Central West",31,"Senior high school",2000,"Fair",167,"Somewhat happy",172,"Junior high school",2000
+"1210","Central West",62,"Elementary school",400,"Not good",160,"Somewhat happy",171,"Junior high school",600
+"1211","Central West",36,"Senior high school",400,"Good",158,"Somewhat happy",170,"Senior high school",700
+"1212","Central West",36,"Junior high school",400,"Good",167,"Somewhat happy",175,"Junior high school",600
+"1213","Central West",37,"Senior high school",600,"Not good",160,"Somewhat happy",178,"Senior high school",1000
+"1214","Central West",38,"Junior high school",0,"Excellent",165,"Very happy",170,"Senior high school",2000
+"1215","Central West",31,"Senior high school",300,"Good",160,"Somewhat happy",174,"Senior high school",1000
+"1216","Central West",48,"Junior high school",600,"Excellent",158,"Somewhat happy",165,"Elementary school",70
+"1217","Central West",35,"Senior high school",500,"Excellent",163,"Very happy",176,"Junior high school",700
+"1218","Central West",30,"Junior high school",100,"Fair",160,"Somewhat happy",165,"Junior high school",200
+"1219","Central West",23,"Junior high school",70,"Fair",160,"Somewhat happy",170,"Junior high school",70
+"1220","Central West",25,"Junior high school",300,"Fair",165,"Somewhat happy",170,"Elementary school",300
+"1221","Central West",34,"Junior high school",50,"Fair",166,"Somewhat happy",167,"Junior high school",50
+"1222","Central West",43,"Senior high school",400,"Not good",150,"Somewhat happy",160,"Junior high school",400
+"1223","Central West",25,"Elementary school",100,"Not good",170,"Somewhat happy",172,"Elementary school",100
+"1224","Central West",48,"Never attended school",500,"Excellent",155,"Very happy",167,"Junior high school",500
+"1225","Central West",34,"Elementary school",400,"Excellent",158,"Very happy",180,"Elementary school",400
+"1226","Central West",38,"Elementary school",100,"Excellent",156,"Very happy",160,"Senior high school",100
+"1227","Central West",36,"Elementary school",100,"Fair",165,"Not too happy",160,"Elementary school",100
+"1228","Central West",36,"Junior high school",300,"Good",178,"Somewhat happy",170,"Junior high school",300
+"1229","Central West",29,"Elementary school",80,"Excellent",157,"Not too happy",170,"Junior high school",80
+"1230","Central West",27,"Junior high school",100,"Good",165,"Somewhat happy",175,"Junior high school",100
+"1231","Central West",53,"Never attended school",100,"Good",160,"Somewhat happy",160,"Never attended school",100
+"1232","Central West",30,"Junior high school",80,"Excellent",153,"Not too happy",170,"Junior high school",80
+"1233","Central West",34,"Junior high school",90,"Fair",163,"Not too happy",167,"Junior high school",200
+"1234","Central West",50,"Elementary school",100,"Fair",160,"Somewhat happy",168,"Junior high school",100
+"1235","Central West",23,"Senior high school",0,"Not good",165,"Somewhat happy",175,"Junior high school",300
+"1236","Central West",40,"Never attended school",60,"Not good",158,"Not too happy",174,"Never attended school",60
+"1237","Central West",31,"Junior high school",300,"Good",164,"Not too happy",170,"Junior high school",0
+"1238","Central West",24,"Junior high school",200,"Excellent",168,"Very happy",171,"Elementary school",200
+"1239","Central West",30,"Elementary school",20,"Excellent",165,"Somewhat happy",170,"Junior high school",20
+"1240","Central West",23,"Junior high school",100,"Excellent",170,"Very happy",180,"Junior high school",100
+"1241","Central West",30,"Never attended school",200,"Excellent",160,"Very happy",180,"Junior high school",400
+"1242","Central West",54,"Never attended school",30,"Good",155,"Somewhat happy",164,"Never attended school",30
+"1243","Central West",38,"Never attended school",100,"Excellent",164,"Somewhat happy",170,"Junior high school",500
+"1244","Central West",43,"Never attended school",100,"Good",154,"Not too happy",160,"Never attended school",100
+"1245","Central West",43,"Elementary school",100,"Fair",167,"Somewhat happy",165,"Elementary school",100
+"1246","Central West",22,"Junior high school",0,"Good",160,"Somewhat happy",175,"Junior high school",500
+"1247","Central West",32,"Elementary school",100,"Good",154,"Not too happy",165,"Elementary school",100
+"1248","Central West",42,"Never attended school",100,"Good",154,"Somewhat happy",178,"Never attended school",100
+"1249","Central West",25,"Never attended school",80,"Good",165,"Somewhat happy",170,"Elementary school",80
+"1250","Central West",27,"Senior high school",200,"Fair",165,"Somewhat happy",178,"Junior high school",100
+"1251","Central West",32,"Junior high school",200,"Good",160,"Not too happy",173,"Senior high school",800
+"1252","Central West",45,"Junior high school",400,"Good",156,"Somewhat happy",175,"Junior college",400
+"1253","Central West",44,"Senior high school",300,"Good",149,"Somewhat happy",176,"Junior college",900
+"1254","Central West",44,"Senior high school",700,"Good",162,"Somewhat happy",178,"Junior high school",800
+"1255","Central West",59,"Junior high school",400,"Not good",163,"Not too happy",176,"Junior high school",500
+"1256","Central West",46,"Junior high school",200,"Good",155,"Somewhat happy",172,"Junior high school",500
+"1257","Central West",42,"Senior high school",400,"Fair",167,"Not too happy",177,"Senior high school",500
+"1258","Central West",46,"Senior high school",500,"Good",160,"Somewhat happy",184,"Senior high school",500
+"1259","Central West",39,"Senior high school",30,"Fair",160,"Somewhat happy",172,"Senior high school",500
+"1260","Central West",37,"Senior high school",80,"Not good",167,"Somewhat happy",180,"Senior high school",3000
+"1261","Central West",46,"Senior high school",300,"Not good",164,"Somewhat happy",174,"Senior high school",200
+"1262","Central West",38,"Senior high school",300,"Fair",159,"Not too happy",171,"Junior high school",7000
+"1263","Central West",39,"Senior high school",400,"Fair",164,"Somewhat happy",173,"Junior college",800
+"1264","Central West",43,"Senior high school",200,"Not good",158,"Somewhat happy",170,"Junior high school",600
+"1265","Central West",29,"Senior high school",800,"Fair",171,"Somewhat happy",180,"Senior high school",600
+"1266","Central West",45,"Senior high school",400,"Good",160,"Somewhat happy",170,"Senior high school",200
+"1267","Central West",54,"Elementary school",500,"Fair",154,"Somewhat happy",165,"Senior high school",300
+"1268","Central West",37,"Junior high school",200,"Excellent",165,"Somewhat happy",170,"Senior high school",300
+"1269","Central West",44,"Senior high school",900,"Excellent",160,"Somewhat happy",170,"Junior high school",300
+"1270","Central West",56,"Junior high school",300,"Good",151,"Somewhat happy",170,"Senior high school",700
+"1271","Central West",41,"Senior high school",300,"Fair",164,"Somewhat happy",176,"Senior high school",400
+"1272","Central West",39,"Senior high school",400,"Fair",157,"Not too happy",169,"Junior college",500
+"1273","Central West",45,"Senior high school",300,"Good",164,"Somewhat happy",183,"Junior college",500
+"1274","Central West",26,"Junior high school",200,"Good",162,"Somewhat happy",170,"Junior high school",400
+"1275","Coastal East",29,"Junior high school",1000,"Excellent",158,"Somewhat happy",173,"Junior high school",2000
+"1276","Coastal East",49,"Senior high school",1000,"Excellent",160,"Somewhat happy",167,"Elementary school",1000
+"1277","Coastal East",32,"Junior high school",1000,"Fair",165,"Not too happy",170,"Elementary school",1000
+"1278","Coastal East",47,"Elementary school",1000,"Good",150,"Not too happy",170,"Elementary school",300
+"1279","Coastal East",42,"Senior high school",500,"Fair",165,"Somewhat happy",174,"Junior high school",200
+"1280","Coastal East",50,"Junior high school",0,"Fair",160,"Somewhat happy",162,"Senior high school",1000
+"1281","Coastal East",52,"Elementary school",100,"Fair",150,"Somewhat happy",175,"Elementary school",100
+"1282","Coastal East",40,"Junior high school",800,"Fair",160,"Somewhat happy",168,"Senior high school",800
+"1283","Coastal East",44,"Junior high school",80,"Fair",163,"Somewhat happy",168,"Senior high school",80
+"1284","Coastal East",52,"Elementary school",300,"Good",160,"Somewhat happy",165,"Elementary school",300
+"1285","Coastal East",24,"Junior high school",300,"Good",156,"Somewhat happy",171,"Senior high school",1000
+"1286","Coastal East",33,"Junior high school",400,"Fair",151,"Somewhat happy",172,"Junior high school",400
+"1287","Coastal East",27,"Junior high school",800,"Good",160,"Very happy",165,"Junior high school",1000
+"1288","Coastal East",35,"Junior high school",700,"Good",156,"Somewhat happy",170,"Junior high school",800
+"1289","Coastal East",34,"Junior high school",800,"Good",156,"Somewhat happy",174,"Junior high school",1000
+"1290","Coastal East",40,"Elementary school",400,"Excellent",160,"Not too happy",168,"Junior high school",100
+"1291","Coastal East",38,"Senior high school",300,"Fair",161,"Very happy",178,"Junior high school",1000
+"1292","Coastal East",51,"Elementary school",700,"Fair",162,"Somewhat happy",170,"Junior high school",0
+"1293","Coastal East",31,"Junior high school",500,"Not good",162,"Somewhat happy",178,"Junior high school",2000
+"1294","Coastal East",24,"Junior high school",400,"Excellent",158,"Somewhat happy",161,"Junior high school",6000
+"1295","Coastal East",54,"Elementary school",300,"Not good",158,"Very happy",178,"Junior high school",900
+"1296","Coastal East",39,"Senior high school",200,"Fair",163,"Very happy",169,"Junior high school",2000
+"1297","Coastal East",34,"Junior high school",500,"Fair",155,"Not too happy",174,"Junior high school",800
+"1298","Coastal East",29,"Junior high school",0,"Fair",155,"Somewhat happy",176,"Senior high school",1000
+"1299","Coastal East",42,"Junior high school",700,"Good",158,"Somewhat happy",170,"Elementary school",1000
+"1300","Coastal East",29,"Senior high school",800,"Fair",163,"Somewhat happy",170,"Junior high school",1000
+"1301","Coastal East",42,"Junior high school",600,"Excellent",155,"Somewhat happy",181,"Junior high school",800
+"1302","Coastal East",40,"Elementary school",600,"Good",150,"Somewhat happy",167,"Elementary school",600
+"1303","Coastal East",34,"Junior high school",500,"Excellent",158,"Somewhat happy",170,"Junior high school",700
+"1304","Coastal East",32,"Elementary school",500,"Excellent",160,"Somewhat happy",175,"Senior high school",1000
+"1305","Coastal East",41,"Never attended school",300,"Excellent",160,"Very happy",180,"Never attended school",300
+"1306","Coastal East",30,"Elementary school",300,"Excellent",170,"Very happy",176,"Elementary school",300
+"1307","Coastal East",27,"Junior high school",0,"Good",163,"Somewhat happy",170,"Senior high school",300
+"1308","Coastal East",41,"Elementary school",400,"Excellent",153,"Very happy",160,"Junior high school",400
+"1309","Coastal East",28,"Senior high school",700,"Excellent",163,"Very happy",173,"Senior high school",2000
+"1310","Coastal East",31,"Junior high school",0,"Excellent",156,"Very happy",180,"Senior high school",1000
+"1311","Coastal East",47,"Never attended school",300,"Good",167,"Somewhat happy",172,"Never attended school",300
+"1312","Coastal East",42,"Elementary school",600,"Fair",162,"Somewhat happy",172,"Senior high school",500
+"1313","Coastal East",44,"Never attended school",600,"Good",160,"Somewhat happy",167,"Never attended school",600
+"1314","Coastal East",45,"Junior high school",600,"Fair",168,"Somewhat happy",181,"Elementary school",0
+"1315","Coastal East",35,"Junior high school",0,"Fair",158,"Somewhat happy",175,"Senior high school",1000
+"1316","Coastal East",42,"Junior high school",500,"Excellent",158,"Very happy",160,"Junior high school",1000
+"1317","Coastal East",44,"Never attended school",400,"Excellent",155,"Very happy",170,"Never attended school",800
+"1318","Coastal East",37,"Junior high school",500,"Excellent",153,"Somewhat happy",170,"Junior high school",600
+"1319","Coastal East",39,"Elementary school",0,"Excellent",163,"Somewhat happy",178,"University",1000
+"1320","Coastal East",32,"Never attended school",10,"Excellent",160,"Very happy",170,"Never attended school",10
+"1321","Coastal East",34,"Junior high school",400,"Excellent",165,"Somewhat happy",176,"Elementary school",700
+"1322","Coastal East",26,"Senior high school",0,"Excellent",157,"Somewhat happy",165,"Elementary school",400
+"1323","Coastal East",37,"Senior high school",400,"Excellent",156,"Very happy",176,"Junior high school",7000
+"1324","Coastal East",36,"Junior high school",2000,"Excellent",157,"Somewhat happy",175,"Junior high school",10000
+"1325","Coastal East",25,"Junior high school",500,"Good",158,"Somewhat happy",170,"Junior high school",300
+"1326","Coastal East",29,"Senior high school",300,"Excellent",160,"Very happy",175,"Senior high school",1000
+"1327","Coastal East",44,"Junior high school",800,"Good",170,"Somewhat happy",170,"Elementary school",800
+"1328","Coastal East",24,"Senior high school",400,"Good",160,"Somewhat happy",176,"Junior high school",1000
+"1329","Coastal East",38,"Senior high school",400,"Good",158,"Somewhat happy",173,"Junior high school",200
+"1330","Coastal East",40,"Junior high school",700,"Fair",164,"Very happy",170,"Junior high school",1000
+"1331","Coastal East",50,"Elementary school",0,"Good",155,"Not too happy",171,"Junior high school",400
+"1332","Coastal East",35,"Senior high school",1000,"Excellent",160,"Very happy",165,"Senior high school",2000
+"1333","Coastal East",41,"Junior high school",700,"Good",158,"Very happy",165,"Elementary school",1000
+"1334","Coastal East",29,"Junior high school",500,"Excellent",157,"Very happy",170,"Senior high school",100
+"1335","Coastal East",54,"Junior high school",0,"Good",165,"Very happy",168,"Junior high school",400
+"1336","Coastal East",35,"Elementary school",0,"Excellent",160,"Somewhat happy",173,"Junior high school",700
+"1337","Coastal East",53,"Never attended school",0,"Excellent",158,"Somewhat happy",170,"Junior high school",600
+"1338","Coastal East",28,"Senior high school",0,"Excellent",155,"Very happy",172,"Junior high school",1000
+"1339","Coastal East",39,"Junior high school",500,"Excellent",140,"Very happy",160,"Junior high school",1000
+"1340","Coastal East",38,"Senior high school",800,"Excellent",163,"Very happy",175,"Junior high school",800
+"1341","Coastal East",43,"Senior high school",40,"Good",160,"Somewhat happy",165,"Junior high school",3000
+"1342","Coastal East",36,"Senior high school",600,"Good",159,"Somewhat happy",170,"Senior high school",1000
+"1343","Coastal East",43,"Senior high school",100,"Good",153,"Somewhat happy",163,"Elementary school",600
+"1344","Coastal East",42,"Elementary school",1000,"Good",160,"Somewhat happy",178,"Junior high school",1000
+"1345","Coastal East",44,"Elementary school",2000,"Good",164,"Somewhat happy",170,"Elementary school",30
+"1346","Coastal East",48,"Elementary school",2000,"Good",150,"Somewhat happy",180,"Elementary school",1000
+"1347","Coastal East",44,"Elementary school",300,"Fair",169,"Somewhat happy",171,"Elementary school",300
+"1348","Coastal East",25,"Senior high school",600,"Good",159,"Somewhat happy",171,"Senior high school",1000
+"1349","Coastal East",37,"Senior high school",3000,"Fair",150,"Somewhat happy",171,"Senior high school",1000
+"1350","Coastal East",42,"Elementary school",2000,"Excellent",160,"Somewhat happy",165,"Senior high school",3000
+"1351","Coastal East",25,"Junior high school",500,"Fair",159,"Somewhat happy",167,"Junior high school",3000
+"1352","Coastal East",44,"Never attended school",200,"Fair",160,"Somewhat happy",167,"Senior high school",700
+"1353","Coastal East",38,"Elementary school",500,"Excellent",156,"Very happy",177,"Senior high school",500
+"1354","Coastal East",33,"Elementary school",600,"Good",162,"Very happy",160,"Junior high school",500
+"1355","Coastal East",52,"Elementary school",700,"Fair",159,"Somewhat happy",170,"Senior high school",800
+"1356","Coastal East",40,"Senior high school",600,"Good",170,"Very happy",172,"Junior high school",1000
+"1357","Coastal East",38,"Never attended school",500,"Good",165,"Somewhat happy",163,"Junior high school",500
+"1358","Coastal East",35,"Junior high school",400,"Excellent",156,"Somewhat happy",165,"Junior high school",700
+"1359","Coastal East",36,"Senior high school",600,"Excellent",162,"Somewhat happy",171,"Senior high school",500
+"1360","Coastal East",54,"Senior high school",1000,"Good",159,"Somewhat happy",168,"Senior high school",900
+"1361","Coastal East",49,"Elementary school",400,"Excellent",160,"Very happy",175,"University",1000
+"1362","Coastal East",39,"Senior high school",2000,"Good",160,"Somewhat happy",169,"Senior high school",1000
+"1363","Coastal East",46,"Elementary school",500,"Excellent",155,"Somewhat happy",171,"Junior high school",500
+"1364","Coastal East",35,"Junior high school",800,"Excellent",155,"Not too happy",170,"Elementary school",800
+"1365","Coastal East",35,"Senior high school",1000,"Good",157,"Somewhat happy",172,"Senior high school",3000
+"1366","Coastal East",30,"Junior college",2000,"Good",167,"Somewhat happy",167,"Junior college",2000
+"1367","Coastal East",44,"Junior high school",1000,"Good",168,"Somewhat happy",170,"Junior high school",700
+"1368","Coastal East",27,"Junior high school",600,"Fair",160,"Very happy",165,"Junior high school",700
+"1369","Coastal East",37,"Senior high school",1000,"Excellent",160,"Somewhat happy",170,"Senior high school",1000
+"1370","Coastal East",27,"Junior high school",600,"Fair",173,"Somewhat happy",180,"Junior high school",600
+"1371","Coastal East",31,"Elementary school",400,"Fair",150,"Not too happy",160,"Elementary school",1000
+"1372","Coastal East",35,"Junior high school",500,"Excellent",153,"Somewhat happy",170,"Junior high school",500
+"1373","Coastal East",45,"Elementary school",500,"Excellent",158,"Very happy",173,"Junior high school",600
+"1374","Coastal East",29,"Junior high school",0,"Fair",155,"Somewhat happy",171,"Senior high school",900
+"1375","Coastal East",54,"Elementary school",500,"Fair",158,"Very happy",165,"Junior high school",600
+"1376","Coastal East",32,"Elementary school",800,"Fair",150,"Somewhat happy",170,"Elementary school",800
+"1377","Coastal East",61,"Senior high school",1000,"Good",155,"Very happy",170,"Senior high school",1000
+"1378","Coastal East",35,"Junior high school",200,"Good",158,"Somewhat happy",168,"Junior high school",600
+"1379","Coastal East",49,"Junior high school",700,"Not good",155,"Somewhat happy",173,"Senior high school",800
+"1380","Coastal East",50,"Junior high school",1000,"Good",160,"Somewhat happy",166,"Junior high school",700
+"1381","Coastal East",52,"Junior high school",700,"Excellent",163,"Very happy",165,"University",1000
+"1382","Coastal East",62,"Junior college",1000,"Fair",155,"Somewhat happy",169,"Junior college",1000
+"1383","Coastal East",61,"University",2000,"Good",162,"Somewhat happy",165,"University",1000
+"1384","Coastal East",53,"Junior high school",600,"Fair",159,"Somewhat happy",170,"Junior high school",600
+"1385","Coastal East",37,"Senior high school",2000,"Good",157,"Somewhat happy",172,"Senior high school",600
+"1386","Coastal East",28,"Junior college",3000,"Not good",160,"Very happy",170,"Junior college",6000
+"1387","Coastal East",63,"Senior high school",900,"Not good",162,"Somewhat happy",169,"Junior high school",1000
+"1388","Coastal East",52,"Senior high school",1000,"Good",152,"Somewhat happy",175,"Senior high school",1000
+"1389","Coastal East",41,"Junior high school",700,"Fair",155,"Somewhat happy",170,"Junior college",800
+"1390","Coastal East",38,"Junior college",3000,"Fair",158,"Somewhat happy",171,"University",3000
+"1391","Coastal East",48,"Junior high school",800,"Fair",152,"Somewhat happy",174,"Senior high school",1000
+"1392","Coastal East",46,"Senior high school",2000,"Excellent",157,"Very happy",168,"Junior high school",2000
+"1393","Coastal East",34,"Elementary school",100,"Excellent",160,"Somewhat happy",165,"Junior high school",1000
+"1394","Coastal East",47,"Senior high school",2000,"Fair",162,"Somewhat happy",172,"Junior high school",600
+"1395","Coastal East",51,"Junior high school",1000,"Good",160,"Somewhat happy",165,"Senior high school",2000
+"1396","Coastal East",42,"Elementary school",200,"Excellent",166,"Very happy",170,"Elementary school",900
+"1397","Coastal East",56,"Junior high school",1000,"Fair",164,"Somewhat happy",176,"University",2000
+"1398","Coastal East",41,"Junior high school",1000,"Excellent",170,"Somewhat happy",180,"Junior high school",0
+"1399","Coastal East",46,"Senior high school",2000,"Fair",154,"Somewhat happy",174,"Junior college",2000
+"1400","Coastal East",61,"Junior high school",500,"Fair",157,"Somewhat happy",158,"Senior high school",800
+"1401","Coastal East",44,"Junior high school",500,"Excellent",150,"Somewhat happy",168,"Elementary school",500
+"1402","Coastal East",37,"Junior college",1000,"Good",164,"Somewhat happy",174,"University",1000
+"1403","Coastal East",44,"Junior high school",400,"Fair",157,"Somewhat happy",173,"Junior high school",2000
+"1404","Coastal East",48,"Junior college",2000,"Good",159,"Somewhat happy",170,"Junior college",2000
+"1405","Coastal East",31,"Elementary school",500,"Excellent",165,"Somewhat happy",167,"Junior high school",500
+"1406","Coastal East",61,"Senior high school",600,"Fair",153,"Somewhat happy",166,"Junior high school",1000
+"1407","Coastal East",45,"Junior high school",700,"Fair",165,"Somewhat happy",182,"Junior high school",600
+"1408","Coastal East",47,"University",1000,"Fair",166,"Somewhat happy",178,"Junior college",1000
+"1409","Coastal East",57,"Junior college",1000,"Fair",158,"Somewhat happy",166,"Junior high school",1000
+"1410","Coastal East",39,"Junior high school",300,"Fair",150,"Somewhat happy",170,"Junior high school",600
+"1411","Coastal East",53,"Elementary school",700,"Fair",158,"Somewhat happy",176,"Junior high school",2000
+"1412","Coastal East",39,"Elementary school",600,"Good",145,"Somewhat happy",170,"Senior high school",500
+"1413","Coastal East",39,"Senior high school",2000,"Excellent",160,"Somewhat happy",173,"Junior college",3000
+"1414","Coastal East",45,"Senior high school",500,"Excellent",164,"Somewhat happy",175,"Junior high school",2000
+"1415","Coastal East",42,"Senior high school",900,"Good",156,"Somewhat happy",170,"Junior college",600
+"1416","Coastal East",64,"Senior high school",100,"Fair",164,"Somewhat happy",170,"Senior high school",2000
+"1417","Coastal East",54,"Senior high school",700,"Fair",157,"Somewhat happy",179,"Junior college",1000
+"1418","Coastal East",33,"University",2000,"Good",165,"Somewhat happy",175,"University",2000
+"1419","Coastal East",54,"Junior college",2000,"Good",163,"Very happy",170,"Senior high school",2000
+"1420","Coastal East",30,"Junior high school",300,"Good",156,"Somewhat happy",165,"Junior high school",700
+"1421","Coastal East",54,"Senior high school",700,"Fair",160,"Somewhat happy",175,"Junior high school",3000
+"1422","Coastal East",35,"Junior high school",400,"Fair",162,"Somewhat happy",170,"Junior high school",900
+"1423","Coastal East",32,"Junior high school",300,"Excellent",165,"Very happy",165,"Junior college",1000
+"1424","Coastal East",43,"Senior high school",600,"Not good",157,"Somewhat happy",170,"Senior high school",900
+"1425","Coastal East",44,"Junior high school",200,"Not good",150,"Somewhat happy",175,"Junior high school",600
+"1426","Coastal East",46,"Junior high school",1000,"Excellent",160,"Somewhat happy",182,"Junior high school",1000
+"1427","Coastal East",32,"Senior high school",1000,"Good",168,"Very happy",175,"Senior high school",2000
+"1428","Coastal East",27,"University",2000,"Good",162,"Somewhat happy",175,"University",3000
+"1429","Coastal East",44,"Senior high school",1000,"Good",158,"Somewhat happy",172,"Senior high school",1000
+"1430","Coastal East",27,"Junior high school",700,"Fair",152,"Somewhat happy",167,"Senior high school",1000
+"1431","Coastal East",33,"Junior high school",600,"Good",163,"Somewhat happy",155,"Junior high school",600
+"1432","Coastal East",50,"Junior high school",2000,"Good",164,"Somewhat happy",174,"Senior high school",1000
+"1433","Coastal East",44,"Junior college",3000,"Good",161,"Very happy",171,"Senior high school",1000
+"1434","Coastal East",46,"Junior high school",2000,"Fair",171,"Somewhat happy",182,"Senior high school",1000
+"1435","Coastal East",46,"Senior high school",1000,"Fair",152,"Somewhat happy",170,"Senior high school",1000
+"1436","Coastal East",43,"Junior high school",500,"Fair",156,"Somewhat happy",180,"Senior high school",1000
+"1437","Coastal East",58,"Senior high school",3000,"Fair",153,"Somewhat happy",167,"Junior high school",700
+"1438","Coastal East",26,"Junior high school",1000,"Fair",160,"Very unhappy",170,"Elementary school",2000
+"1439","Coastal East",44,"Senior high school",400,"Fair",156,"Very happy",173,"Junior high school",600
+"1440","Coastal East",38,"Junior high school",800,"Fair",160,"Somewhat happy",168,"Junior high school",800
+"1441","Coastal East",20,"Senior high school",2000,"Fair",166,"Somewhat happy",173,"Senior high school",2000
+"1442","Coastal East",42,"Junior high school",700,"Good",161,"Somewhat happy",175,"Junior high school",1000
+"1443","Coastal East",44,"Junior high school",1000,"Good",160,"Somewhat happy",183,"Junior high school",1000
+"1444","Coastal East",54,"Junior high school",1000,"Good",162,"Very happy",170,"University",1000
+"1445","Coastal East",42,"Senior high school",900,"Excellent",150,"Not too happy",163,"Senior high school",1000
+"1446","Coastal East",44,"Junior high school",600,"Fair",173,"Somewhat happy",182,"Senior high school",300
+"1447","Coastal East",38,"Junior high school",1000,"Excellent",164,"Very happy",174,"Senior high school",800
+"1448","Coastal East",64,"Junior high school",500,"Good",156,"Somewhat happy",172,"Elementary school",1000
+"1449","Coastal East",28,"Junior college",1000,"Excellent",168,"Somewhat happy",176,"University",2000
+"1450","Coastal East",41,"Senior high school",1000,"Excellent",160,"Very happy",174,"Senior high school",1000
+"1451","Coastal East",64,"Elementary school",500,"Fair",156,"Somewhat happy",172,"Junior high school",800
+"1452","Coastal East",55,"Junior high school",700,"Fair",165,"Somewhat happy",174,"Senior high school",1000
+"1453","Coastal East",49,"Junior high school",600,"Good",165,"Somewhat happy",170,"Junior high school",700
+"1454","Coastal East",45,"Junior high school",800,"Good",160,"Somewhat happy",180,"Senior high school",2000
+"1455","Coastal East",63,"Elementary school",600,"Good",146,"Somewhat happy",172,"Elementary school",600
+"1456","Coastal East",41,"Senior high school",900,"Fair",160,"Somewhat happy",170,"Junior high school",1000
+"1457","Coastal East",43,"Senior high school",700,"Not good",170,"Not too happy",174,"Junior high school",400
+"1458","Coastal East",52,"Junior high school",2000,"Good",154,"Somewhat happy",173,"Junior high school",3000
+"1459","Coastal East",57,"Junior high school",800,"Fair",155,"Somewhat happy",177,"Senior high school",600
+"1460","Coastal East",61,"Elementary school",1000,"Excellent",164,"Very happy",165,"Elementary school",0
+"1461","Coastal East",40,"Junior high school",300,"Poor",159,"Not too happy",160,"Junior high school",200
+"1462","Coastal East",43,"Senior high school",1000,"Fair",163,"Not too happy",180,"Junior high school",300
+"1463","Coastal East",38,"Junior high school",3000,"Excellent",160,"Not too happy",173,"Senior high school",3000
+"1464","Coastal East",51,"Junior high school",600,"Good",170,"Somewhat happy",172,"Junior high school",1000
+"1465","Coastal East",42,"Junior high school",600,"Excellent",157,"Somewhat happy",174,"Junior high school",600
+"1466","Coastal East",43,"Senior high school",400,"Not good",165,"Somewhat happy",176,"Senior high school",900
+"1467","Coastal East",25,"Junior college",2000,"Excellent",157,"Very happy",175,"University",10000
+"1468","Coastal East",39,"Senior high school",800,"Good",163,"Somewhat happy",178,"Senior high school",2000
+"1469","Coastal East",47,"Junior high school",1000,"Fair",152,"Somewhat happy",170,"Junior high school",2000
+"1470","Coastal East",46,"Senior high school",800,"Fair",158,"Somewhat happy",175,"Junior high school",400
+"1471","Coastal East",50,"Junior high school",1000,"Good",161,"Very happy",168,"Senior high school",400
+"1472","Coastal East",43,"Senior high school",300,"Good",160,"Somewhat happy",178,"Senior high school",1000
+"1473","Coastal East",43,"Junior college",1000,"Excellent",162,"Very happy",175,"Senior high school",2000
+"1474","Coastal East",29,"Junior college",2000,"Good",158,"Somewhat happy",178,"Senior high school",1000
+"1475","Coastal East",53,"Senior high school",700,"Good",154,"Somewhat happy",170,"Junior high school",700
+"1476","Coastal East",49,"Junior high school",700,"Good",162,"Somewhat happy",170,"Junior college",800
+"1477","Coastal East",60,"Junior college",900,"Fair",156,"Somewhat happy",175,"Senior high school",900
+"1478","Coastal East",41,"Senior high school",2000,"Excellent",158,"Somewhat happy",169,"Junior college",1000
+"1479","Coastal East",42,"Junior college",1000,"Excellent",157,"Somewhat happy",172,"Senior high school",2000
+"1480","Coastal East",45,"Senior high school",1000,"Fair",160,"Somewhat happy",176,"Junior high school",4000
+"1481","Coastal East",46,"Junior high school",0,"Good",164,"Somewhat happy",170,"Junior college",5000
+"1482","Coastal East",25,"Senior high school",1000,"Good",160,"Somewhat happy",175,"Junior college",6000
+"1483","Coastal East",26,"Junior high school",0,"Good",153,"Somewhat happy",170,"Junior college",2000
+"1484","Coastal East",32,"Junior college",1000,"Good",160,"Somewhat happy",178,"Senior high school",2000
+"1485","Coastal East",54,"Junior high school",600,"Fair",156,"Somewhat happy",173,"Senior high school",800
+"1486","Coastal East",40,"Senior high school",1000,"Good",164,"Somewhat happy",170,"Junior college",2000
+"1487","Coastal East",52,"Senior high school",1000,"Fair",158,"Somewhat happy",178,"Junior high school",800
+"1488","Coastal East",46,"Junior high school",1000,"Excellent",155,"Somewhat happy",174,"Junior college",700
+"1489","Coastal East",36,"Senior high school",600,"Fair",168,"Somewhat happy",178,"Senior high school",2000
+"1490","Coastal East",55,"Junior college",1000,"Fair",164,"Somewhat happy",178,"Junior high school",1000
+"1491","North",43,"Junior college",3000,"Fair",157,"Very happy",165,"University",6000
+"1492","North",37,"Senior high school",2000,"Good",165,"Somewhat happy",170,"Junior high school",2000
+"1493","North",36,"University",2000,"Fair",155,"Somewhat happy",172,"University",4000
+"1494","North",40,"Junior college",2000,"Excellent",162,"Very happy",172,"University",3000
+"1495","North",33,"University",2000,"Excellent",163,"Very happy",165,"University",3000
+"1496","North",34,"University",2000,"Excellent",163,"Very happy",170,"University",3000
+"1497","North",45,"Junior college",1000,"Fair",158,"Somewhat happy",172,"University",4000
+"1498","North",37,"University",2000,"Excellent",165,"Somewhat happy",173,"University",3000
+"1499","North",46,"Junior high school",1000,"Fair",160,"Somewhat happy",173,"Junior college",4000
+"1500","North",27,"University",4000,"Good",165,"Somewhat happy",180,"University",4000
+"1501","North",64,"University",1000,"Fair",155,"Very happy",170,"University",2000
+"1502","North",53,"Junior college",2000,"Fair",163,"Somewhat happy",170,"University",2000
+"1503","North",58,"Senior high school",1000,"Good",167,"Somewhat happy",181,"University",2000
+"1504","North",61,"Junior college",2000,"Good",155,"Very happy",165,"Junior college",1000
+"1505","North",31,"University",7000,"Fair",163,"Somewhat happy",164,"University",10000
+"1506","North",38,"Junior college",2000,"Excellent",162,"Very happy",176,"University",8000
+"1507","North",63,"University",3000,"Fair",158,"Somewhat happy",178,"Junior college",1000
+"1508","North",27,"University",5000,"Fair",166,"Very happy",170,"University",4000
+"1509","North",30,"Junior college",2000,"Fair",160,"Somewhat happy",170,"University",3000
+"1510","North",40,"University",1000,"Fair",161,"Somewhat happy",173,"University",4000
+"1511","North",48,"University",3000,"Good",163,"Somewhat happy",176,"University",2000
+"1512","North",43,"Senior high school",600,"Good",162,"Not too happy",176,"Senior high school",800
+"1513","North",48,"Junior high school",700,"Good",156,"Somewhat happy",170,"Junior high school",2000
+"1514","North",50,"Senior high school",800,"Excellent",158,"Somewhat happy",175,"Junior college",3000
+"1515","North",45,"Junior high school",400,"Excellent",161,"Somewhat happy",163,"Junior high school",500
+"1516","North",45,"Junior high school",1000,"Good",156,"Somewhat happy",168,"Junior college",1000
+"1517","North",56,"Junior high school",500,"Good",157,"Not too happy",171,"Junior high school",1000
+"1518","North",36,"University",3000,"Excellent",163,"Very happy",175,"University",4000
+"1519","North",40,"Junior high school",600,"Fair",160,"Not too happy",175,"Junior high school",400
+"1520","North",31,"Junior high school",0,"Excellent",158,"Somewhat happy",170,"Junior high school",2000
+"1521","North",53,"Junior high school",900,"Fair",164,"Somewhat happy",176,"Junior high school",2000
+"1522","North",50,"Junior high school",800,"Fair",160,"Somewhat happy",168,"Senior high school",1000
+"1523","North",35,"Senior high school",1000,"Good",162,"Somewhat happy",176,"Senior high school",1000
+"1524","North",52,"Junior high school",1000,"Excellent",160,"Somewhat happy",176,"Senior high school",2000
+"1525","North",40,"Senior high school",1000,"Excellent",158,"Somewhat happy",170,"Junior high school",800
+"1526","North",43,"Elementary school",300,"Fair",164,"Not too happy",173,"Elementary school",500
+"1527","North",60,"Junior high school",700,"Not good",160,"Somewhat happy",171,"Junior high school",800
+"1528","North",43,"Junior high school",400,"Excellent",160,"Somewhat happy",167,"Elementary school",0
+"1529","North",31,"Senior high school",1000,"Excellent",159,"Somewhat happy",176,"Senior high school",1000
+"1530","North",41,"Junior high school",1000,"Excellent",155,"Very happy",168,"Junior high school",1000
+"1531","North",50,"Senior high school",1000,"Good",156,"Very happy",180,"Junior college",3000
+"1532","North",53,"Junior high school",400,"Fair",157,"Somewhat happy",167,"Junior high school",700
+"1533","North",35,"University",1000,"Fair",160,"Somewhat happy",180,"University",3000
+"1534","North",48,"Senior high school",1000,"Not good",157,"Somewhat happy",170,"University",2000

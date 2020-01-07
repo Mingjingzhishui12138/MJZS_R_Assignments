@@ -1,0 +1,23 @@
+---
+title: "随堂实验作业5"
+author: "陈明2017022002"
+date: "2019年10月12日"
+output: 
+  html_document: default
+  word_document: default
+---
+
+### 通过向量型运算，用内置的mtcars数据框来计算表中每辆车的动力重量比（hp-to-wt ratio),并将结果存为mtcars的一个名为\hwr"的新变量。
+```{r}
+mtcars$hwr <- mtcars$hp/mtcars$wt
+```
+
+### 通过向量型运算，用内置的mtcars数据框来计算表中每辆车的每气缸的动力（hp per cyl），并将结果存为mtcars的一个名为\hpc"的新变量。
+```{r}
+mtcars$hpc <- mtcars$hp/mtcars$cyl
+```
+
+### 将vs变量从数据表中删除。
+```{r}
+mtcars$vs <- NULL
+```

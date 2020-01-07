@@ -1,0 +1,65 @@
+---
+title: "随堂实验作业7"
+author: "陈明2017022002"
+output:
+  html_document: default
+  word_document: default
+---
+ 
+###在mtcars数据表中，创建一个新的变量type,用这个新变量标记大马力的车为”highhp”,小马力的车为”lowhp”（注: ”马力”的值存储在变量hp中，”大马力”指hp值大于hp变量的中位数，反之为”小马力”
+```{r}
+mtcars$type<- NA
+for (i in 1:length(mtcars$type)){
+  if (mtcars$hp[i]>median(mtcars$hp))
+  {mtcars$type[i]<-'highhp'}
+  else{mtcars$type[i]<-'lowhp'}
+}
+```
+
+
+
+###分别用我们在课堂上学的三种类型的循环语句完成以下任务：将1到15之内所有的能被3整除和不能被3整除的的数字分别按照如下方式打印出来：
+
+# 1不能被3整除
+# 2不能被3整除
+# 3能被3整除
+# 4不能被3整除
+# 5不能被3整除
+# 6能被3整除
+# 7不能被3整除
+# 8不能被3整除
+# 9能被3整除
+# 10不能被3整除
+# 11不能被3整除
+# 12能被3整除
+# 13不能被3整除
+# 14不能被3整除
+# 15能被3整除
+
+
+```{r}
+for (i in 1:15){
+  if (i%%3!=0){
+    message(i,' cannot be divided by 3')
+  }
+  else{
+    message(i,' can be divided by 3')
+  }
+}
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

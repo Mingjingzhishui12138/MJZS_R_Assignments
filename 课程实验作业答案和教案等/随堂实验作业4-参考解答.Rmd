@@ -1,0 +1,51 @@
+---
+title: "R语言-随堂实验作业4"
+author: ""
+output:
+  html_document: default
+  word_document: default
+---
+ 
+###用一个函数查看你目前电脑的工作路径
+```{r}
+getwd()
+```
+
+###在你电脑的C盘或者D盘下建一个以你自己的名字(或者英文简写)命名的文件夹，你可以直接使用电脑操作或者使用一个R的函数来完成这一操作。
+```{r}
+dir.create("C:/tx")
+```
+
+###将"Forbes2000.RData"文件拷贝到你以上创建的这个文件夹中,并从将这个文件中的数据读取到R的工作空间中
+
+
+```{r}
+load("C:/tx/Forbes2000.RData")
+```
+
+###将"Forbes2000.csv"文件拷贝到你以上创建的这个文件夹中,并从将这个文件中的数据读取到R的工作空间中名为"Forbes2000_csv"的数据框中，然后用str()函数查看这个数据框的结构
+
+```{r}
+Forbes2000_csv = read.csv("C:/tx/Forbes2000.csv")
+str(Forbes2000_csv)
+``` 
+ 
+ 
+###Forbes2000数据框中的country和category列都是因子型的列，用所学的函数分别查看这两个因子列的级别数。
+```{r}
+nlevels(Forbes2000$country)
+nlevels(Forbes2000$category)
+```
+
+###将Forbes2000数据框中的因子列category列的所有级别存入到一个字符型数组demo_levels中
+```{r}
+demo_levels=levels(Forbes2000$category)
+demo_levels
+```
+
+###将Forbes2000数据框中的因子列category列的级别"Aerospace & defense"改成"Defense"
+```{r}
+levels(Forbes2000$category)[1]="Defense"
+levels(Forbes2000$category)
+```
+

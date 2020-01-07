@@ -1,0 +1,46 @@
+---
+title: "随堂实验作业8"
+author: "陈明2017022002"
+output:
+  html_document: default
+  word_document: default
+---
+ 
+###1.写一个函数，来返回一个向量的最大值和最小值（用列表作为返回的对象类型）。
+```{r}
+myfunc <- function (a){
+  return(c(message('Max and Min are:'),list(max(a),min(a))))
+} 
+```
+
+###写一个你自己的函数，来求解一元二次方程的根。
+
+```{r}
+myfunc2 <- function(a,b,c){
+  if (b^2-4*a*c >= 0){
+    x1 <- -b+sqrt(b^2-4*a*c)/2*a
+    x2 <- -b-sqrt(b^2-4*a*c)/2*a}
+  else {
+    x1 <- -b+sqrt(as.complex(b^2-4*a*c))/2*a
+    x2 <- -b-sqrt(as.complex(b^2-4*a*c))/2*a    
+  }
+  return(c(message('The roots are'),list(x1,x2)))
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

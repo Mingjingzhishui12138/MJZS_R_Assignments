@@ -1,0 +1,55 @@
+---
+title: "随堂实验作业4"
+author: "陈明"
+output:
+  html_document: default
+  word_document: default
+---
+ 
+### 在你电脑的C盘或者D盘下建一个以你自己的名字(或者英文简写)命名的文件夹，你可以直接使用电脑操作或者使用一个R函数来完成这一操作。
+```{r}
+outdir = 'C:\\Users\\Mingjingzhishui\\Desktop\\Chen_Ming'
+if (!file.exists(outdir)) dir.create(outdir)
+
+```
+
+### "Forbes2000.RData"文件拷贝到你以上创建的这个文件夹中,并从将这个文件中的数据读取到R的工作空间中):
+```{r}
+file=load('C:\\Users\\Mingjingzhishui\\Desktop\\Forbes2000.RData')
+save(Forbes2000,file=file.path(outdir,'Forbes2000.RData'))
+load("C:\\Users\\Mingjingzhishui\\Desktop\\Chen_Ming\\Forbes2000.RData")
+```
+
+### 将"Forbes2000.csv"文件拷贝到你以上创建的这个文件夹中,并从将这个文件中的数据读取到R的工作空间中名为"Forbes2000 csv"的数据框中，然后用str()函数查看这个数据框的结构
+```{r}
+Forbes2000=read.csv("C:\\Users\\Mingjingzhishui\\Desktop\\Forbes2000.csv")
+save(Forbes2000,file=file.path(outdir,'Forbes2000.csv'))
+load("C:\\Users\\Mingjingzhishui\\Desktop\\Chen_Ming\\Forbes2000.csv")# 若直接用read.csv会出现乱码，暂无法解决
+Forbes2000csv = Forbes2000
+str(Forbes2000csv)
+
+```
+
+### Forbes2000数据框中的country和category列都是因子型的列，用所学的函数分别查看这两个因子列的级别数。
+```{r}
+levels(Forbes2000$country)
+levels(Forbes2000$category)
+```
+
+
+### 将Forbes2000数据框中的因子列category列的所有级别存入到一个字符型数组demo levels中。
+```{r}
+demo_levels=array(levels(Forbes2000$category))
+demo_levels
+```
+
+### 将Forbes2000数据框中的因子列category列的级别"Aerospace & defense"改成"Defense"。
+```{r}
+levels = levels(Forbes2000$category[1])
+levels[1]='Defense'
+levels(Forbes2000$category) = levels
+levels(Forbes2000$category)
+```
+
+
+

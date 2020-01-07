@@ -1,0 +1,51 @@
+---
+title: "随堂实验作业12"
+author: "陈明2017022002"
+output:
+  html_document: default
+  word_document: default
+---
+ 
+### 1. 将讲义第13.1.3小节中的最后一个返回结果，也就是sapply(mtcars, unique)的返回结果存储到一个名为list.unique的对象中，并对这个list.unique对象使用一个Apply族函数，来计算这个list.unique中每个元素中的最小值。
+```{r}
+list.unique = sapply(mtcars, unique)
+vapply(list.unique, min, numeric(1))
+
+```
+
+### 2. 创建一个列联表（contingency table），里面是mtcars数据表中，按am，gear和carb分类的车的数量。
+```{r}
+mytable <- table(mtcars[,c('am','gear','carb')])
+mytable
+```
+
+
+### 3. 用以上同样的表，来计算各种类型的车的马力（hp）的总和，而不是数量。
+```{r}
+hp_sum <- aggregate(hp ~ am + gear + carb, data = mtcars, FUN = sum)
+
+```
+
+### 4. 使用tapply()函数创建一个3维的列联表，里面是mtcars数据表中，按vs，am和cyl变量分类的车的mpg的总和。
+```{r}
+mytable <- tapply(mtcars$mpg, mtcars[,c('vs','am','cyl')],sum) 
+mytable
+
+```
+
+
+### 5. 写一个函数，同时返回mtcars数据表中，按gear和am分类的车的mpg的最小值和最大值。
+```{r}
+myfunction <- function(){
+  max_value = aggregate(data = mtcars, FUN = max, mpg ~ gear + am)
+  min_value = aggregate(data = mtcars, FUN = min, mpg ~ gear + am)
+  print('各分类车辆最小值为:')
+  print(min_value)
+  
+  print('各分类车辆最大值为:')
+  print(max_value)
+}
+
+myfunction()
+
+```

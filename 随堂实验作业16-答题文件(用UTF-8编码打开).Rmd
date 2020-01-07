@@ -1,0 +1,37 @@
+---
+title: "R语言-随堂实验作业16"
+author: "陈明2017022002"
+output:
+  html_document: default
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+### 请将附件中的auto.csv数据表文件读入R的工作空间中。
+```{r}
+setwd('C:/Users/Mingjingzhishui/Desktop')
+auto <- read.csv('auto.csv')
+```
+
+### 用合适的图形来可视化“foreign"和“mpg”两个变量之间的关系（以“foreign"为因变量，以“mpg”为自变量）。
+```{r}
+# 自变量为连续型，因变量为离散型，用脊髓图或条件密度图
+cdplot(foreign~mpg, data = auto)
+```
+
+
+### 用合适的图形来可视化“foreign"和“weight”两个变量之间的关系（以“foreign"为因变量，以“weight”为自变量）。
+```{r}
+cdplot(foreign ~ weight, data = auto)
+```
+
+
+
+### 用逻辑回归模型评估"mpg"和“weight"变量是否值得被引入到一个预测模型中来预测一辆车是否为"Foreign"车（"foreign"变量），并解释回归系数的估值的含义（基于使用"mpg"和“weight"两个自变量的模型来解释）。
+```{r}
+logit <- glm(foreign~mpg+weight, data = auto, family = binomial())
+summary(logit)
+```
+由此可见，我们可以在.05的显著性水平上拒绝$\beta_{mpg}=0$的假设，并能在小于.001的显著性水平上拒绝$\beta_{weight}=0$的假设。可以推测，在其他变量保持不变的情况下，每增加一单位的mpg，"foreign = Foreign"的优势就会变为原来的$e^{-.168587}$倍（或者说优势的自然对数会增加-.168587）。同理，每增加一单位的weight，"foreign= Foreign"的优势就会变为原来的$e^{-.003907}$倍（或者说优势的自然对数会增加-.003904）。
+
+

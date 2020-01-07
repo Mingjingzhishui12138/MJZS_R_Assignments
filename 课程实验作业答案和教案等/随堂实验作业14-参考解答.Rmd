@@ -1,0 +1,30 @@
+---
+title: "R语言-随堂实验作业14"
+author: ""
+output:
+  html_document: default
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+###将本课（假设检验）课件中方差分析部分所用到的例子数据sbp.csv读入到R中，将因变量systolic在自变量Drug不同级别的对比箱线图画出来，然后再将因变量systolic在自变量Disease不同级别的对比箱线图画出来。观察这两个对比箱线图，它们展示出来的信息和课件中假设检验的显著性结果一致吗？
+```{r}
+sbp = read.csv("Datasets/sbp.csv")
+sbp$drug = as.factor(sbp$drug)
+sbp$disease = as.factor(sbp$disease)
+layout(matrix(1:2,nrow=2))
+plot(systolic ~ as.numeric(drug), data = sbp, xlab = "Drug", ylab = "Increment in Systolic Blood Pressure")
+#plot(systolic ~ drug, data = sbp, xlab = "Drug", ylab = "Increment in Systolic Blood Pressure")
+#plot(systolic ~ disease, data = sbp, xlab = "Disease", ylab = "Increment in Systolic Blood Pressure")
+```
+###解答：对比箱线图展示出来的信息和课件中假设检验的显著性结果一致。通过箱线图，我们可以直观的观察到两个变量在不同级别上的systolic变量的均值和变化幅度-我们可以看到Drug变量的不同级别上的systolic变量的均值不相等的趋势，而在Disease变量的不同级别上systolic变量的均值不相等的趋势不明显。
+
+###本课（假设检验）课件中方差分析部分的第一个例子的数据是关于乳腺癌的，我们并没有用假设检验来分析这个数据。请用我们本堂课学过的方法和相关的R命令来检验“患乳腺癌”和“有乳腺癌家族史”这两个事件是否有关联，解释假设检验的结果（包括显著性）并作出结论。
+```{r}
+breastcancer <- as.table(rbind(c(400, 100), c(9600, 4900)))
+#breastcancer <- rbind(c(400, 100), c(9600, 4900))
+#breastcancer <- matrix(c(400,100,9600,4900),nrow=2, byrow = TRUE)
+chisq.test(breastcancer)
+```
+###：解答：从我们观测到的数据计算出的卡方分布的统计量的值为40.761，其对应的p值等于1.72e-10<0.05,因此，我们在0.05的显著性水平上推翻原假设，作出以下结论：基于我们的数据，“患乳腺癌”和“有乳腺癌家族史”这两个事件有关联（或者说，“有乳腺癌家族史”和“没有乳腺癌家族史”的两类人其患乳腺癌的比例是不同的；或者说，“有乳腺癌家族史”这个事件会影响“患乳腺癌”这个事件的概率，即这两个事件不是独立的事件）。
+

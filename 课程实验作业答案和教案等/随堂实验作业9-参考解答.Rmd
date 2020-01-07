@@ -1,0 +1,52 @@
+---
+title: "R语言-随堂实验作业9"
+author: ""
+output:
+  html_document: default
+  word_document: default
+---
+ 
+###使用RStudio的菜单来安装Hmisc扩展包后，通过鼠标点击的方式加载Hmisc扩展包，然后在RStudio中调出Hmisc扩展包里的rcorr.cens函数的帮助文件。
+####参考解答：参考课上所学的知识通过RStudio的图形化用户界面安装和加载扩展包，然后可以通过以下两种方式来调出rcorr.cens函数的帮助文件:
+```{r}
+?rcorr.cens
+help(r.corr.cens)
+```
+
+
+###在RStudio的控制台(Console)窗口中使用R的函数，来依次完成以下任务：
+###安装car扩展包
+###加载car扩展包
+###卸载car扩展包
+###删除car扩展包
+####参考解答：
+
+```{r eval=FALSE}
+install.packages("car")
+library(car)
+detach(package:car)
+remove.packages("car")
+```
+
+
+###到CRAN网站上下载car扩展包的最新版本的源文件压缩包（以``.tar.gz''作为文件名结尾的压缩文件），将这个源文件压缩包解压缩成一个文件夹后，探索文件夹中的内容。并将这个car扩展包中定义vif函数的R语言的源文件在Blackboard中的“随堂实验9”中提交。
+####参考解答：请参考课堂上所教的步骤找到vif.R文件
+
+###应用本堂课学的知识，将你在上次随堂作业8的第二道题中编写的求解一元二次方程的根的函数制作成一个扩展包。将这个扩展包文件在Blackboard中的“随堂实验9”中提交。
+####参考解答：请参考课堂上所教的制作扩展包的步骤制作扩展包（讲义10.5节）。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

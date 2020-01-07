@@ -1,0 +1,41 @@
+---
+title: "R语言-随堂实验作业15"
+author: "陈明2017022002"
+output:
+  html_document: default
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### 请将附件中的auto.csv数据表文件读入R的工作空间中。
+```{r}
+auto <- read.csv('auto.csv')
+```
+
+### 用合适的图形来可视化“weight"和“mpg”两个变量之间的关系（以“weight"为因变量，以“mpg”为自变量）。
+```{r}
+plot(mpg ~ weight, data = auto)
+```
+
+
+### 用合适的图形来可视化“weight"和“foreign”两个变量之间的关系（以“weight"为因变量，以“foreign”为自变量）。
+```{r}
+plot(weight ~ foreign, data = auto)
+```
+
+
+
+### 利用以上这个auto.csv的数据表，建立一个线性回归模型，这个模型以“weight"为因变量，以“mpg”和“foreign”为自变量。并对回归系数估值的含义作出解释。
+```{r}
+
+summary(lm(weight ~ mpg + foreign, data = auto))
+```
+该回归模型有两个自变量和一个因变量。自变量mpg的系数为-91.22，自变量foreign的系数为-550.05，截距项为5125.72.该回归模型反映了车辆重量和mpg成负相关关系，与foreign成负相关关系。由于自变量foreign的系数绝对值大于自变量mpg的系数，推测车辆重量与foreign的相关关系强于与mpg的相关关系。通过假设检验，证明两个自变量和因变量在小于0.001的显著性水平上显著相关(拒绝了原假设)。
+
+
+
+
+
+
+
